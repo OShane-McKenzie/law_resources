@@ -1,0 +1,55 @@
+{
+  "contents": {
+    "Threat": 0,
+    "Threat Related Offences": 1,
+    "Libel": 2,
+    "Dealing with Threat": 3,
+    "Powers of Arrest": 4
+  },
+  "sections": [
+    {
+      "Threat": [
+        "Threat is the offer, written or verbal, to do harm to someone else.",
+        "Statements or Expressions of Violence against the victim.",
+        "Gesticulations made by the offender.",
+        "Whether or not the victim has reasonable grounds to be in fear of his/her life or safety.",
+        "It is immaterial whether threat is premeditated or spontaneous.",
+        "Was there any use of violence or is there an imminent threat to the victim?",
+        "Were there a series of offences committed leading up to or immediately following the threat?",
+        "Is there more than one offender or victim?",
+        "Antecedent of the offender to include any previous convictions."
+      ]
+    },
+    {
+      "Threat Related Offences": [
+        "Threat to Murder:",
+        "Whosoever shall maliciously send, deliver, or utter or directly or indirectly cause to be received, knowing the contents thereof, any letter or writing threatening to kill or murder any person, shall be guilty of a felony, and, being convicted thereof, shall be liable to be in prison for a term not exceeding 10 years, with or without hard labour.",
+        "Section 18-Offences Against The Person Act",
+        "Threat to Gain:",
+        "Threatening to publish any libel on any person is provided for under the Larceny Law. (1) Extortion (2) Blackmail."
+      ]
+    },
+    {
+      "Libel": [
+        "This is a method of defamation expressed by print, writing, pictures, signs, effigies, or any communication embodied in physical form that is injurious to a person's reputation, exposes a person to public hatred, contempt or ridicule, or injures a person in his/her business or profession."
+      ]
+    },
+    {
+      "Dealing with Threat": [
+        "The name, address, age and occupation of the person reporting as also that of the accused should be reported in the Station Diary, together with the nature of the threat.",
+        "This should be indexed \u201cI \u201cin red ink under the subject threat and at the back of the Station Diary.",
+        "Record a Statement from the person reporting the threat.",
+        "Complainant should be advised to take civil action or proceedings and should also be assured that the person will be warned as early as possible not to carry out the threat.",
+        "Where the police has reasonable grounds to believe that a verbal warning will not prove effective in preventing the offender from carrying out his threat then the officer must seek to prosecute the offender using the supporting Legislations.",
+        "A Constable should be dispatched immediately or as early as possible to warn the accused not to carry out his threat, which had been reported against him.",
+        "The Constable should record or cause to be recorded in the Station Diary, on his return, the result of his enquiries. The entry must be cross referenced."
+      ]
+    },
+    {
+      "Powers of Arrest": [
+        "Section 4- Town And Communities Act",
+        "Section 18-Offences Against The Person Act"
+      ]
+    }
+  ]
+}
