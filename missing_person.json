@@ -1,0 +1,68 @@
+{
+  "contents": {
+    "Missing Person": 0,
+    "Role of the officer receiving the Initial Report": 1,
+    "Role of the Investigating Officer": 2,
+    "Procedure When a Missing Person is Found": 3
+  },
+  "sections": [
+    {
+      "title": "Missing Person",
+      "content": [
+        "All reports of missing persons should be thoroughly investigated. Every person reported as missing must be considered at risk until significant information to the contrary is confirmed. A case of missing person must be dealt with immediately by any rank without waiting for any time period to elapse and no one making such a report should be sent away. Where the investigation is undertaken by a rank below sergeant, the investigation must be supervised by a named sergeant.",
+        "The station to which the missing person report was made is responsible for conducting the investigation, unless it is agreed by the Divisional Commanders and handed over by mutual consent, using the appropriate station records."
+      ]
+    },
+    {
+      "title": "Role of the officer receiving the Initial Report",
+      "content": [
+        "Upon notification of an alleged case of missing person, the following investigative procedures should be followed:",
+        "- Appreciate the report in a professional manner putting all his/her interpersonal skills into action",
+        "- Reassure the complainant in order to build confidence in the investigation.",
+        "- Complete the prescribed Missing Person Report Forms (MP1 in triplicate,) AND the Risk Assessment (MP2).",
+        "- If a high risk child (under 18 years) immediately activate the Ananda Alert system, by contacting CCU.",
+        "- Record a comprehensive statement of the circumstances surrounding the missing person.",
+        "- Obtain a most recent photograph of the missing person, preferably a full size one.",
+        "- Obtain details of any communication device (cell phone, laptop etc.) and contact the Communication Forensics & Cybercrime Unit (CFCU) at the Organised Crime Investigation Division (OCID)",
+        "- Send a radio message to Police Control and make entries in the Radio Message Book, Station Diary and Missing Person Register.",
+        "- Immediately submit the completed Missing Person Report Forms along with Risk Assessment to Station Manager/Duty Supervisor.",
+        "- Advise the complainant on actions taken by the police relative to finding the missing person."
+      ]
+    },
+    {
+      "title": "Role of the Investigating Officer",
+      "content": [
+        "- Ensure a home address visit is conducted as soon as possible after the report is made and a thorough search of the missing person\u2019s home is completed before starting anywhere else, unless information reveals that the person is at a particular location.",
+        "- Collect Statements from all relevant persons",
+        "- Interview all known associates, friends and visit places frequented by the missing person,",
+        "- Inform and provide a copy report to the parish\u2019s Child Development Agency as it relates to any missing children (under 18 years) and update such on a monthly basis.",
+        "- Assess the possibility of foul play.",
+        "- Conduct Checks \u2013 Immigration, custody, hospital(s), funeral homes etc, Missing Person Register (for previous incidents of the same nature and analyse), Divisional Intelligence Unit (DIU) & Criminal Records Office (CRO) (to verify whether or not the missing person may be an offender and if any additional information is known to assist the investigation).",
+        "- Seek the assistance of the CFCU at OCID to inspect the missing person\u2019s personal computer to include e-mail database etc.",
+        "- Compile a case file including the original missing person report, the circulation for the Police Gazette and submit to the Station Manager for approval.",
+        "- Ensure that all statements taken are signed and witnessed.",
+        "- Review and update the Missing Person Register on a daily basis.",
+        "- In cases where the missing person is found, the officer in charge must ensure that the appropriate records are updated, including the Missing Person Register, the Police Gazette and any other records that may have been circulated.",
+        "- The investigating officer must obtain a statement from the missing person or inform the complainant that the missing person is safe.",
+        "- If the person is found in another jurisdiction, the station or division in which he/she is found must be contacted and informed of the status of the case.",
+        "- Where the investigation has not been resolved within 72 hours, the case must be reviewed by the Divisional Detective Inspector (DDI) and the Station Manager must be informed of the outcome of the review.",
+        "- All unresolved cases of missing persons must be forwarded to the DDI for further review and direction.",
+        "- A report on all missing persons cases must be submitted monthly to the Officer in Charge of the Divisional Detectives.",
+        "- At the end of the investigation, the investigating officer must complete a closure report outlining the details of the investigation and the outcome.",
+        "- The closure report must be approved by the Station Manager and submitted to the Officer in Charge of the Divisional Detectives and the Missing Person Coordinator."
+      ]
+    },
+    {
+      "title": "Procedure When a Missing Person is Found",
+      "content": [
+        "When a missing person is found, the following procedures must be followed:",
+        "- The officer who receives the information must immediately inform the investigating officer in charge of the case and record the information in the Missing Person Register and the Station Diary.",
+        "- The investigating officer must verify the information and record the details of the finding in the case file.",
+        "- If the missing person was found in another jurisdiction, the station or division in which he/she was found must be contacted and informed of the status of the case.",
+        "- If the missing person is deceased, the procedures for dealing with sudden death must be followed and the Coroner must be informed.",
+        "- The officer in charge of the case must ensure that the appropriate records are updated, including the Missing Person Register, the Police Gazette and any other records that may have been circulated.",
+        "- The investigating officer must obtain a statement from the missing person or inform the complainant that the missing person is safe."
+      ]
+    }
+  ]
+}
