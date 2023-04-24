@@ -1,0 +1,58 @@
+{
+  "Conducting a risk assessment": [
+    "A risk assessment must be conducted in all incidents of domestic violence.",
+    "Factors to consider in the risk assessment include: (a) history of domestic violence or abuse, (b) age and health of victim, (c) level of dependency of victim on abuser, (d) history of substance abuse or mental illness by abuser or victim, (e) presence of weapons, (f) prior criminal record of abuser, and (g) history of breach of court orders or bail conditions.",
+    "The risk assessment must be documented on the Domestic Violence Risk Assessment form."
+  ],
+  "Dealing with threats": [
+    "Where the report constitutes threats, the accused must be located in person and warned not to carry out the threat. This warning must be in accordance with the procedures in dealing with threats."
+  ],
+  "Documenting incidents of domestic violence": [
+    "All incidents of domestic violence must be documented in the Domestic Violence Incident Report form.",
+    "This form must include: (a) name, address, age, sex and occupation of the complainant, (b) name, address, age, sex and occupation of accused, (c) relationship of the accused to the complainant/parties involved, (d) nature of the dispute/conflict, (e) any injuries received, weapons involved, threat(s) made, destruction to property etc., and (f) outcome of police action taken."
+  ],
+  "Gathering information from complainants": [
+    "The complainant must be interviewed in an appropriate area that allows for confidentiality.",
+    "A statement must be recorded from the complainant at the earliest opportunity.",
+    "The statement must contain the following elements: (a) name, address, age, sex and occupation of the complainant, (b) name, address, age, sex and occupation of accused, (c) relationship of the accused to the complainant/parties involved, (d) nature of the dispute/conflict, and (e) any injuries received, weapons involved, threat(s) made, destruction to property etc."
+  ],
+  "Initiating a criminal investigation": [
+    "Where the report amounts to a criminal offence, the police must initiate a criminal investigation and take steps to apprehend the offender to be placed before the court."
+  ],
+  "Involving children": [
+    "Where the incident involves, impacts or is likely to involve or impact children, the member must immediately contact the Child Protection and Family Services Agency (CPFSA) and inform the Shift Commander.",
+    "The member must then apply the appropriate procedures in dealing with children who are either: (i) in conflict with the law, (ii) in need of care and protection, or (iii) witnesses or victims in keeping with the JCF Child Interaction Policy."
+  ],
+  "Recording reports of domestic violence": [
+    "Reports of domestic violence must be recorded in the Station Diary or Station Record Management System (SRMS), indexed with the violence attribution code 'B' in red ink under the subject 'Domestic Violence', and cross referenced at the back of the said Station Diary.",
+    "The diary entry must include the relationship between the victim(s) and the accused, their living arrangements (e.g. living together, living apart); and the reason for the conflict."
+  ],
+  "Referring victims to support agencies": [
+    "Where the victim indicates that he or she does not wish to proceed through the courts, a statement to that effect must be recorded.",
+    "In every instance where an incident of Domestic violence/abuse (criminal or otherwise) is reported to the police, the victim must be provided with information on support agencies that can assist them, including shelters, counseling services, legal aid and medical services.",
+    "The complainant must be given a Domestic Violence Information Sheet which provides information on Domestic Violence and its effects, warning signs and cycle of violence, contact information for police and other support services."
+  ],
+  "Responding to victims' needs": [
+    "The complainant must be issued with a Customer Reference Form, CR10.",
+    "Victims that are severely wounded or present with life-threatening conditions, must immediately be transported by the police to a medical facility. If no service vehicle is immediately available, the injured party may be transported by other means under police escort.",
+    "In cases where injuries are not serious or life-threatening, the police must advise the victim to seek medical attention.",
+    "All victims who sustain or complain of injury must be issued a letter by the police to seek medical attention and obtain a medical certificate (Appendix A)."
+  ],
+  "Taking action based on risk assessment": [
+    "The outcome of the risk assessment must determine the police response.",
+    "Where the risk assessment indicates that the victim is at high risk of further harm or homicide, the police must take immediate action to ensure the safety of the victim and any children involved, which may include arrest and detention of the abuser and application for protection orders or bail conditions.",
+    "Where the risk assessment indicates that the victim is at moderate or low risk of harm, the police must still take appropriate action to ensure the safety of the victim and any children involved, which may include referral to support agencies, counselling or mediation, and monitoring of the situation."
+  ],
+  "contents": {
+    "Conducting a risk assessment": 0,
+    "Dealing with threats": 1,
+    "Documenting incidents of domestic violence": 2,
+    "Gathering information from complainants": 3,
+    "Initiating a criminal investigation": 4,
+    "Involving children": 5,
+    "Recording reports of domestic violence": 6,
+    "Referring victims to support agencies": 7,
+    "Responding to victims' needs": 8,
+    "Taking action based on risk assessment": 9
+  }
+}
