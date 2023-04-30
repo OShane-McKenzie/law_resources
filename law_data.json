@@ -7,6 +7,7 @@
         "foreign_national":"https://oshane-mckenzie.github.io/law_resources/foreign_national.json",
         "traffic_accidents":"https://oshane-mckenzie.github.io/law_resources/traffic_accidents.json",
         "threat":"https://oshane-mckenzie.github.io/law_resources/threat.json",
-        "public_interaction":"https://oshane-mckenzie.github.io/law_resources/public_interaction.json"
+        "public_interaction":"https://oshane-mckenzie.github.io/law_resources/public_interaction.json",
+        "messages":"https://oshane-mckenzie.github.io/law_resources/message.json"
     }
 }
