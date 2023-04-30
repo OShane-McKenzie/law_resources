@@ -1,0 +1,16 @@
+{
+    "message":[
+        {
+            "priority":"high",
+            "content":"Welcome to law resources!"
+        },
+        {
+            "priority":"medium",
+            "content":"Knowledge is power!"
+        },
+        {
+            "priority":"low",
+            "content":"HAve a great day!"
+        }
+    ]
+}
