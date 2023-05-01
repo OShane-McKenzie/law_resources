@@ -2,7 +2,7 @@
     "message":[
         {
             "priority":"high",
-            "content":"Welcome to law resources!"
+            "content":"Urgent!! Welcome to law resources!"
         },
         {
             "priority":"medium",
@@ -10,7 +10,7 @@
         },
         {
             "priority":"low",
-            "content":"HAve a great day!"
+            "content":"Have a great day!"
         }
     ]
 }
