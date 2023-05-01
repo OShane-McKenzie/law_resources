@@ -9,6 +9,7 @@
         "threat":"https://oshane-mckenzie.github.io/law_resources/threat.json",
         "public_interaction":"https://oshane-mckenzie.github.io/law_resources/public_interaction.json",
         "messages":"https://oshane-mckenzie.github.io/law_resources/message.json",
-        "contacts":"https://oshane-mckenzie.github.io/law_resources/contacts.json"
+        "contacts":"https://oshane-mckenzie.github.io/law_resources/contacts.json",
+        "samples":"https://oshane-mckenzie.github.io/law_resources/samples.json"
     }
 }
