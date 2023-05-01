@@ -1,0 +1,31 @@
+Privacy Policy
+
+Law Resources is committed to protecting your privacy. This Privacy Policy explains how we handle your information and data when you use our app, [Your App Name]. By using [Your App Name], you agree to the collection, storage, and use of your information in accordance with this Privacy Policy.
+
+1. Information We Collect
+
+Law Resources does not directly collect any personal information from its users. However, our app uses AdMob, a third-party advertising service provided by Google, to display ads within the app. AdMob may collect information to serve personalized ads and improve the quality of the ads shown to you.
+
+2. AdMob and Third-Party Advertising
+
+AdMob, as a third-party service, may collect information about your device, including unique device identifiers, IP address, and mobile network information. This information may be used to display personalized ads based on your interests, browsing habits, and app usage patterns.
+
+AdMob may also use cookies or similar technologies to track your interaction with the ads displayed within the app. This data helps AdMob analyze the effectiveness of the ads and deliver more relevant ads to you.
+
+Please note that opting out of personalized ads does not prevent the display of ads within the app; it only affects the personalization of the ads shown.
+
+For more information about how Google uses data when you use our app, please visit Google's Privacy Policy: https://policies.google.com/privacy
+
+3. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
+
+4. Your Consent
+
+By using Law Resources, you consent to the data practices described in this Privacy Policy. If you do not agree with the terms of this Privacy Policy, please do not use our app.
+
+5. Contact Us
+
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at [Your Contact Email Address].
+
+Last updated: May 01, 2023
