@@ -2,26 +2,31 @@
     "samples":[
         {
             "url":"https://oshane-mckenzie.github.io/law_resources/samples/sample_vacation_leave.png",
+            "document":"https://oshane-mckenzie.github.io/law_resources/samples/sample_vacation_leave.docx",
             "title":"Vacation Leave",
             "Description":"A sample image of a vacation leave application filled with dummy data, demonstrating the proper format and content for requesting time off for a vacation."
         },
         {
             "url":"https://oshane-mckenzie.github.io/law_resources/samples/sample_departmental_leave.png",
+            "document":"https://oshane-mckenzie.github.io/law_resources/samples/sample_departmental_leave.docx",
             "title":"Departmental Leave",
-            "Description":"An example image of a departmental leave application containing dummy data, showcasing the correct structure and content for requesting departmental leave."
+            "Description":"An example image of a departmental leave application containing dummy data, showcasing the correct structure and content for requesting time off within a specific department."
         },
         {
             "url":"https://oshane-mckenzie.github.io/law_resources/samples/sample_leave_accumulation.png",
+            "document":"https://oshane-mckenzie.github.io/law_resources/samples/sample_leave_accumulation.docx",
             "title":"Leave Accumulation",
             "Description":"A sample image of a leave accumulation application filled with dummy data, illustrating the appropriate format and content for requesting the accumulation of vacation leave."
         },
         {
             "url":"https://oshane-mckenzie.github.io/law_resources/samples/sample_sick_leave.png",
+            "document":"https://oshane-mckenzie.github.io/law_resources/samples/sample_sick_leave.docx",
             "title":"Sick Leave",
             "Description":"A sample image of a sick leave application filled with dummy data, demonstrating the proper format and content for requesting time off due to illness."
         },
         {
             "url":"https://oshane-mckenzie.github.io/law_resources/samples/sample_report.png",
+            "document":"https://oshane-mckenzie.github.io/law_resources/samples/sample_report.docx",
             "title":"Report",
             "Description":"An example image of a report filled with dummy data, illustrating the standard structure and content for creating a professional report from scratch."
         }
