@@ -34,6 +34,13 @@
             "title":"Report",
             "type":".docx",
             "Description":"An example image of a report filled with dummy data, illustrating the standard structure and content for creating a professional report from scratch."
+        },
+        {
+            "url":"https://oshane-mckenzie.github.io/law_resources/samples/sample_witness_statement.png",
+            "document":"https://oshane-mckenzie.github.io/law_resources/samples/sample_witness_statement.docx",
+            "title":"Witness Statement",
+            "type":".docx",
+            "Description":"An example of a five part witness statement explaining each section."
         }
     ]
 }
