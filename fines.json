@@ -1,0 +1,884 @@
+[
+    {
+      "description": "Aid And Abet No Driver's Licence or Permit",
+      "fine": "$15,000",
+      "points": 0,
+      "section": "Section 20(4)"
+    },
+    {
+      "description": "Aid And Abet Operating Motor Vehicle Contrary To The Terms Of Insurance Coverage While Acting As A Driving Instructor",
+      "fine": "$30,000",
+      "points": 0,
+      "section": "Regulation 180(2)"
+    },
+    {
+      "description": "Body Protruding",
+      "fine": "$5,000",
+      "points": 0,
+      "section": "Regulation 261(4)"
+    },
+    {
+      "description": "Breach of special permit",
+      "fine": "$30,000",
+      "points": 0,
+      "section": "Regulation 113(8)"
+    },
+    {
+      "description": "Careless Driving Causing Collision",
+      "fine": "$25,000",
+      "points": 10,
+      "section": "Section 59(1)"
+    },
+    {
+      "description": "Careless Driving Where No Collision Occurs",
+      "fine": "$11,000",
+      "points": 4,
+      "section": "Section 59(1)"
+    },
+    {
+      "description": "Carrying dangerous goods without the transport emergency cards and manifest Or Not Producing Emergency Cards And Manifests Upon Being Requested By A Constable Or Other Authorized Person",
+      "fine": "$175,000",
+      "points": 0,
+      "section": "Regulation 291(3)"
+    },
+    {
+      "description": "Carrying passenger on motor cycle on any part other than the sidecar",
+      "fine": "$5,000",
+      "points": 0,
+      "section": "Regulation 261(4)"
+    },
+    {
+      "description": "Carrying Person Otherwise Than By Sitting Astride On Motor Cycle",
+      "fine": "$5,000",
+      "points": 0,
+      "section": "Section 67(2)"
+    },
+    {
+      "description": "Causing Motor Cycle To Be Driven On One Wheel Only",
+      "fine": "$5,000",
+      "points": 3,
+      "section": "Section 67(2)"
+    },
+    {
+      "description": "Child Without Child Restraint System In Motor Vehicle",
+      "fine": "$5,000",
+      "points": 4,
+      "section": "Section 73(2)"
+    },
+    {
+      "description": "Crossing From A Minor Road To Major Road So As To Obstruct Traffic",
+      "fine": "$8,000",
+      "points": 3,
+      "section": "Section 54(4)b"
+    },
+    {
+      "description": "Crossing Road So As To Obstruct Traffic",
+      "fine": "$9,000",
+      "points": 3,
+      "section": "Section 57(5)(d)(iii)"
+    },
+    {
+      "description": "Direction indicatorcontrary to Regulations",
+      "fine": "$5,000",
+      "points": 0,
+      "section": "Regulation 110(3)"
+    },
+    {
+      "description": "Disobeying Traffic Light Or Stop Sign",
+      "fine": "$10,000",
+      "points": 6,
+      "section": "Section 52(2)(a)"
+    },
+    {
+      "description": "Drawing More Than Prescribed Number of Trailers",
+      "fine": "$12,000",
+      "points": 4,
+      "section": "Section 68(3)"
+    },
+    {
+      "description": "Driver Accompanying Learner Driver Having Excess Alcohol",
+      "fine": "$12,000",
+      "points": 0,
+      "section": "Section 24(4)"
+    },
+    {
+      "description": "Driver Failing to Cause Passenger To Wear Seatbelt",
+      "fine": "$2,000",
+      "points": 2,
+      "section": "Section 72(4)"
+    },
+    {
+      "description": "Driver Not Ensuring Pillion Wears Helmet",
+      "fine": "$8,000",
+      "points": 2,
+      "section": "Section 74(3)"
+    },
+    {
+      "description": "Driver Overtaking Without A Clear View",
+      "fine": "$10,000",
+      "points": 3,
+      "section": "Section 57(5)(d)(i)"
+    },
+    {
+      "description": "Driving a non-emergency vehicle over a Jamaica Fire Brigade hose laid on the road for the use at a fire without consent of a Constable or other person controlling traffic or Superintendent or other officer of the JFB",
+      "fine": "$5,000",
+      "points": 0,
+      "section": "Regulation 284(2)"
+    },
+    {
+      "description": "Driving Backwards Unnecessarily",
+      "fine": "$3,000",
+      "points": 4,
+      "section": "Section 57(5)(f)"
+    },
+    {
+      "description": "Driving closer than 50 meters behind an emergency vehicle or driving or stopping within 100 meters of where an emergency vehicle stopped",
+      "fine": "$5,000",
+      "points": 0,
+      "section": "Regulation 283(2)"
+    },
+    {
+      "description": "Driving Defective Motor Vehicle",
+      "fine": "$10,000",
+      "points": 2,
+      "section": "Section 123(d)"
+    },
+    {
+      "description": "Driving From A Place That Is Not A Road Onto A Road So As To Obstruct Traffic",
+      "fine": "$9,000",
+      "points": 3,
+      "section": "Section 57(5) (e)"
+    },
+    {
+      "description": "Driving Instructor Holding Or Using Electronic Communication Device While Providing Instructions",
+      "fine": "$10,000",
+      "points": 6,
+      "section": "Section 121(4)"
+    },
+    {
+      "description": "Driving Or Attempting To Drive Motor Vehicle Across Funeral Procession",
+      "fine": "$5,000",
+      "points": 2,
+      "section": "Section 123(h)"
+    },
+    {
+      "description": "Driving/Operating Motor Vehicle While Using Electronic Communication Device",
+      "fine": "$10,000",
+      "points": 4,
+      "section": "Section 121(4)"
+    },
+    {
+      "description": "Driving/Operating Motor Vehicle While Using Specified Electronic Visual Device Within Driver's Line Of Sight",
+      "fine": "$10,000",
+      "points": 6,
+      "section": "Section 122(3)"
+    },
+    {
+      "description": "Driving/Riding in a Motor Vehicle Without Seatbelt On",
+      "fine": "$2,000",
+      "points": 2,
+      "section": "Section 72(4)"
+    },
+    {
+      "description": "Exceeding Speed Limit In Construction Zone; 33-49 Kilometers Per Hour",
+      "fine": "$20,000",
+      "points": 6,
+      "section": "Section (77)(3)"
+    },
+    {
+      "description": "Exceeding Speed Limit In Construction Zone;16-32 Kilometers Per Hour",
+      "fine": "$12,000",
+      "points": 3,
+      "section": "Section 77(3)"
+    },
+    {
+      "description": "Exceeding Speed Limit In Construction Zone;50 Or More Kilometers Per Hour",
+      "fine": "$30,000",
+      "points": 10,
+      "section": "Section 77(3)"
+    },
+    {
+      "description": "Exceeding Speed Limit In School Safety Zone; 16 To 32 Kilometers Per Hour",
+      "fine": "$12,000",
+      "points": 3,
+      "section": "Section 76(4)"
+    },
+    {
+      "description": "Exceeding Speed Limit In School Safety Zone; 33 To 49 Kilometers Per Hour",
+      "fine": "$20,000",
+      "points": 6,
+      "section": "Section 76(4)"
+    },
+    {
+      "description": "Exceeding Speed Limit In School Safety Zone; 50 or More Kilometres Per Hour",
+      "fine": "$30,000",
+      "points": 10,
+      "section": "Section 76(4)"
+    },
+    {
+      "description": "Exceeding Speed Limit; 16-32 Kilometers Per Hour",
+      "fine": "$6,000",
+      "points": 2,
+      "section": "Section 55(3)"
+    },
+    {
+      "description": "Exceeding Speed Limit; 33-49 Kilometers Per Hour",
+      "fine": "$10,000",
+      "points": 4,
+      "section": "Section 55(3)"
+    },
+    {
+      "description": "Exceeding Speed Limit; 50 Or More Kilometers Per Hour",
+      "fine": "$15,000",
+      "points": 6,
+      "section": "Section 55(3)"
+    },
+    {
+      "description": "Excess Noise",
+      "fine": "$10,000",
+      "points": 0,
+      "section": "Regulation 247(7)"
+    },
+    {
+      "description": "Excess Weight 1001-5000 Kilogram",
+      "fine": "$100,000",
+      "points": 0,
+      "section": "Section 102(1)(b)"
+    },
+    {
+      "description": "Excess Weight 500-1000 Kilogram",
+      "fine": "$25,000",
+      "points": 0,
+      "section": "Section 102(1)(a)"
+    },
+    {
+      "description": "Failing To Allow Vehicle To Be Overtaken",
+      "fine": "$5,000",
+      "points": 2,
+      "section": "Section 57(5)(c)"
+    },
+    {
+      "description": "Failing To Bring Motor Vehicle To A Full Stop Where No Traffic Sign is Posted Or Constable is Assigned",
+      "fine": "$10,000",
+      "points": 0,
+      "section": "Section 54(4)(a)(ii)"
+    },
+    {
+      "description": "Failing To Comply With Other Traffic Signs",
+      "fine": "$6,000",
+      "points": 3,
+      "section": "Section 52(2)(b)"
+    },
+    {
+      "description": "Failing To Comply With Requirement To Off-Load Vehicle When Vehicle Is Found To Be Above Prescribed Laden Weight In A Manner So As Not To Obstruct Traffic",
+      "fine": "$7,000",
+      "points": 0,
+      "section": "Section 104(3)"
+    },
+    {
+      "description": "Failing To Comply With Terms And Conditions Of Driver's Licence",
+      "fine": "$6,000",
+      "points": 2,
+      "section": "Section 27(3)"
+    },
+    {
+      "description": "Failing To Comply With Terms And Conditions Of Learner's Permit",
+      "fine": "$6,000",
+      "points": 2,
+      "section": "Section 24(4)"
+    },
+    {
+      "description": "Failing To Comply With Terms Of Condition Of Driver's Licence During First Twelve (12) Months",
+      "fine": "$6,000",
+      "points": 2,
+      "section": "Section 27(3)"
+    },
+    {
+      "description": "Failing To Comply With Traffic Sign In Construction Zone",
+      "fine": "$10,000",
+      "points": 3,
+      "section": "Section 77(3)"
+    },
+    {
+      "description": "Failing To Comply With Traffic Sign In School Zone",
+      "fine": "$10,000",
+      "points": 2,
+      "section": "Section 76(4)"
+    },
+    {
+      "description": "Failing To Comply With Traffic Signs Or Direction Of Constable Before Turning Into or Crossing a Major Road Where Roadway Is Not Controlled By Traffic Light",
+      "fine": "$10,000",
+      "points": 0,
+      "section": "Section 54(4)(a)(i)"
+    },
+    {
+      "description": "Failing To Fit Mechanical or illuminated Device (No indicator)",
+      "fine": "$2,500",
+      "points": 2,
+      "section": "Section 90(6)"
+    },
+    {
+      "description": "Failing To Give Appropriate Signal When Approaching A Constable At Road Junction To Indicate Which Direction Driver Will Go",
+      "fine": "$2,500",
+      "points": 2,
+      "section": "Section 90(6)"
+    },
+    {
+      "description": "Failing To Give Signal To Stop",
+      "fine": "$2,500",
+      "points": 2,
+      "section": "Section 90(6)"
+    },
+    {
+      "description": "Failing To Give Turning Signal (Failing to Indicate)",
+      "fine": "$2,500",
+      "points": 2,
+      "section": "Section 90(6)"
+    },
+    {
+      "description": "Failing to have certificate showing exemption from wearing seatbelt",
+      "fine": "$5,000",
+      "points": 0,
+      "section": "Regulation 281(3)"
+    },
+    {
+      "description": "Failing to inform police of route where radioactive or infectious goods will be transported at least five days before transportation",
+      "fine": "$25,000",
+      "points": 0,
+      "section": "Regulation 294(2)"
+    },
+    {
+      "description": "Failing To Keep Left Or Nearside Of The Road When Being Overtaken",
+      "fine": "$5,000",
+      "points": 3,
+      "section": "Section 57(5)(a)"
+    },
+    {
+      "description": "Failing To Keep Right Or Offside Of Other Traffic Whilst Overtaking",
+      "fine": "$5,000",
+      "points": 3,
+      "section": "Section 57(5)(b)"
+    },
+    {
+      "description": "Failing to label protective device",
+      "fine": "$5,000",
+      "points": 0,
+      "section": "Regulation 276(4)"
+    },
+    {
+      "description": "Failing To Obey Constable Command",
+      "fine": "$5,000",
+      "points": 1,
+      "section": "Section 91(2)"
+    },
+    {
+      "description": "Failing To Observe Silent Zone",
+      "fine": "$5,000",
+      "points": 2,
+      "section": "Section 75(1)"
+    },
+    {
+      "description": "Failing To Observe Stop For Crossing When Required By A School Crossing Warden",
+      "fine": "$12,000",
+      "points": 6,
+      "section": "Section 81(3)(a)"
+    },
+    {
+      "description": "Failing To Place Motor Vehicle Not In Motion As Indicated By Constable Or By Notice Issued By The Authority",
+      "fine": "$5,000",
+      "points": 0,
+      "section": "Section 89(4)"
+    },
+    {
+      "description": "Failing To Place Motor Vehicle When Not In Motion In A Safe Position",
+      "fine": "$5,000",
+      "points": 0,
+      "section": "Section 89(4)"
+    },
+    {
+      "description": "Failing To Produce Driver's Licence/Permit At Constable's Request",
+      "fine": "$2,000",
+      "points": 0,
+      "section": "Section 20(4)"
+    },
+    {
+      "description": "Failing to prominently display license or certified copy at driving school",
+      "fine": "$10,000",
+      "points": 0,
+      "section": "Regulation 188(2)"
+    },
+    {
+      "description": "Failing To Remain Stationery When Stopped By School Crossing Warden",
+      "fine": "$12,000",
+      "points": 6,
+      "section": "Section 81(3)(b)"
+    },
+    {
+      "description": "Failing To Stop Or Observe Provisions Of A Pedestrian Crossing",
+      "fine": "$10,000",
+      "points": 4,
+      "section": "Section 83(3)"
+    },
+    {
+      "description": "Failing to use emergency warning sign",
+      "fine": "$5,000",
+      "points": 0,
+      "section": "Regulation 262(6)"
+    },
+    {
+      "description": "Failing To Yield Right Of Way at Pedestrian Crossing",
+      "fine": "$10,000",
+      "points": 4,
+      "section": "Section 83(3)"
+    },
+    {
+      "description": "Failing to yield right of way to emergency vehicles",
+      "fine": "$25,000",
+      "points": 0,
+      "section": "Regulation 282(3)"
+    },
+    {
+      "description": "Fitting or using lamp fitted in contravention of the Regulations",
+      "fine": "$10,000",
+      "points": 0,
+      "section": "Regulation 85(9)"
+    },
+    {
+      "description": "Fraudulent Use Of Registration Plate or Decal",
+      "fine": "$10,000",
+      "points": 0,
+      "section": "Section 13(3)"
+    },
+    {
+      "description": "Leaving Motor Vehicle Unattended Without Stopping Engine",
+      "fine": "$3,000",
+      "points": 0,
+      "section": "Section 89(4)"
+    },
+    {
+      "description": "Leaving/Abandoning Motor Vehicle On Road Causing Obstruction",
+      "fine": "$5,000",
+      "points": 0,
+      "section": "Section 94(1)"
+    },
+    {
+      "description": "Licence Disc Not Affixed",
+      "fine": "$5,000",
+      "points": 0,
+      "section": "Section 13(5)"
+    },
+    {
+      "description": "More Person On Motor Cycle",
+      "fine": "$5,000",
+      "points": 3,
+      "section": "Section 67(2)"
+    },
+    {
+      "description": "No Brake Light",
+      "fine": "$5,000",
+      "points": 2,
+      "section": "Section 71(2)(e)"
+    },
+    {
+      "description": "No Headlamp",
+      "fine": "$5,000",
+      "points": 4,
+      "section": "Section 71(2)(a)"
+    },
+    {
+      "description": "No Helmet",
+      "fine": "$8,000",
+      "points": 2,
+      "section": "Section 74(3)"
+    },
+    {
+      "description": "No Motor Vehicle Insurance",
+      "fine": "$20,000",
+      "points": 0,
+      "section": "Section 7(3)"
+    },
+    {
+      "description": "No Park Light",
+      "fine": "$5,000",
+      "points": 2,
+      "section": "Section 71(2)(b)"
+    },
+    {
+      "description": "No Rear Registration Plate Light",
+      "fine": "$5,000",
+      "points": 2,
+      "section": "Section 71(2)(d)"
+    },
+    {
+      "description": "No Reflectors",
+      "fine": "$5,000",
+      "points": 2,
+      "section": "Section 71(2)(c)"
+    },
+    {
+      "description": "No Seat Belt In Motor Vehicle",
+      "fine": "$5,000",
+      "points": 2,
+      "section": "Section 71(2)(g)"
+    },
+    {
+      "description": "No Valid Certificate Of Fitness",
+      "fine": "$15,000",
+      "points": 0,
+      "section": "Section 7(3)"
+    },
+    {
+      "description": "No Warning Devices",
+      "fine": "$5,000",
+      "points": 2,
+      "section": "Section 71(2)(f)"
+    },
+    {
+      "description": "Not Parked With Near Side Closed To The Left As Possible When Not In Motion",
+      "fine": "$5,000",
+      "points": 0,
+      "section": "Section 89(4)"
+    },
+    {
+      "description": "Not producing transport emergency cards and manifests upon being requested to by a Constable or other authorized person",
+      "fine": "$175,000",
+      "points": 0,
+      "section": "Regulation 291(3)"
+    },
+    {
+      "description": "Obscured Licence Disc",
+      "fine": "$5,000",
+      "points": 0,
+      "section": "Section 13(5)"
+    },
+    {
+      "description": "Obscured Registration Plate",
+      "fine": "$5,000",
+      "points": 0,
+      "section": "Section 13(5)"
+    },
+    {
+      "description": "Obstructing Traffic",
+      "fine": "$5,000",
+      "points": 0,
+      "section": "Section 93(3)"
+    },
+    {
+      "description": "Operating a driving school without being licensed",
+      "fine": "$50,000",
+      "points": 0,
+      "section": "Regulation 183(2)"
+    },
+    {
+      "description": "Operating a motor cycle on a road where any goods carried theron exceeds prescribed projection",
+      "fine": "$10,000",
+      "points": 0,
+      "section": "Regulation 257(3)"
+    },
+    {
+      "description": "Operating a motor vehicle that requires a special permit without obtaining such special permit",
+      "fine": "$50,000",
+      "points": 0,
+      "section": "Regulation 113(7)"
+    },
+    {
+      "description": "Operating Motor Vehicle Contrary To Terms and Conditions Of Licence",
+      "fine": "$10,000",
+      "points": 0,
+      "section": "Section 13(5)"
+    },
+    {
+      "description": "Operating Motor Vehicle Contrary To Terms Of Licence Issued To Dealer.",
+      "fine": "$10,000",
+      "points": 0,
+      "section": "Section 13(4)"
+    },
+    {
+      "description": "Operating motor vehicle contrary to the terms of Insurance coverage while acting as a driving instructor",
+      "fine": "$30,000",
+      "points": 0,
+      "section": "Regulation 180(2)"
+    },
+    {
+      "description": "Operating motor vehicle fitted with lamps emitting blue light or capable of emitting blue lights",
+      "fine": "$15,000",
+      "points": 0,
+      "section": "Regulation 102(4)"
+    },
+    {
+      "description": "Operating motor vehicle fitted with spot lamp enabling beam of light to be deflected in any direction",
+      "fine": "$10,000",
+      "points": 0,
+      "section": "Regulation 101(3)"
+    },
+    {
+      "description": "Operating motor vehicle on a road where the overall height exceeds 4.2 metres from the ground",
+      "fine": "$20,000",
+      "points": 0,
+      "section": "Regulation 255(2)"
+    },
+    {
+      "description": "Operating motor vehicle or trailer where the load projects more than 15 centimetres beyond either side without the use of the required warning device to indicate the extent of the projection",
+      "fine": "$30,000",
+      "points": 0,
+      "section": "Regulation 258(6)"
+    },
+    {
+      "description": "Operating motor vehicle or trailer where the load projects more than 30 centimetres beyond the rear without the use of the required warning device to indicate the width or length of projection",
+      "fine": "$50,000",
+      "points": 0,
+      "section": "Regulation 258(6)"
+    },
+    {
+      "description": "Operating motor vehicle specified in Regulation 259(1) if the overall length of the vehicle exceeds that specified in Regulation 32",
+      "fine": "$50,000",
+      "points": 0,
+      "section": "Regulation 259(8)"
+    },
+    {
+      "description": "Operating motor vehicle specified in Regulation 259(1) if the overall width of the vehicle exceeds 3.5 meters",
+      "fine": "$50,000",
+      "points": 0,
+      "section": "Regulation 259(8)"
+    },
+    {
+      "description": "Operating motor vehicle specified in Regulation 259(1) if the overall width of the vehicle exceeds that specified in Regulation 33",
+      "fine": "$50,000",
+      "points": 0,
+      "section": "Regulation 259(8)"
+    },
+    {
+      "description": "Operating motor vehicle specified in Regulation 259(1) in time when motor vehicle cannot be clearly discerned at a distance of 150 meters",
+      "fine": "$500,000",
+      "points": 0,
+      "section": "Regulation 259(8)"
+    },
+    {
+      "description": "Operating motor vehicle where exhaust pipe or silencer is not in good working order",
+      "fine": "$10,000",
+      "points": 0,
+      "section": "Regulation 66(2)"
+    },
+    {
+      "description": "Operating motor vehicle where exhaust pipe or silencer is placed and maintained so that exhaust or smoke leaks into the driving cab or passenger compartment",
+      "fine": "$10,000",
+      "points": 0,
+      "section": "Regulation 66(2)"
+    },
+    {
+      "description": "Operating motor vehicle where exhaust pipe or silencer when tested exceeds the Jamaica Motor Vehicle Exhaust Emission Standard limits",
+      "fine": "$10,000",
+      "points": 0,
+      "section": "Regulation 66(2)"
+    },
+    {
+      "description": "Operating motor vehicle where the exhaust or smoke from the engine causes nuisance or obstruction to the vision of other road users",
+      "fine": "$10,000",
+      "points": 0,
+      "section": "Regulation 66(2)"
+    },
+    {
+      "description": "Operating motor vehicle where the exhaust pipe or silencer is in such a position that oil or other flammable liquid or material can drip or fall onto the exhaust pipe or silencer",
+      "fine": "$10,000",
+      "points": 0,
+      "section": "Regulation 66(2)"
+    },
+    {
+      "description": "Operating Motor Vehicle Without Driver's Licence/Permit",
+      "fine": "$40,000",
+      "points": 14,
+      "section": "Section 20(4)"
+    },
+    {
+      "description": "Overtaking Causing Obstruction",
+      "fine": "$10,000",
+      "points": 3,
+      "section": "Section 57(d)(ii)"
+    },
+    {
+      "description": "Parking In Such A Position As To Obstruct Traffic",
+      "fine": "$5,000",
+      "points": 0,
+      "section": "Section 89(4)"
+    },
+    {
+      "description": "Passing Or Overtaking Vehicle Stopped At Pedestrian Crossing",
+      "fine": "$10,000",
+      "points": 4,
+      "section": "Section 83(3)"
+    },
+    {
+      "description": "Permitting another person to use motor vehicle not covered by insurance which includes coverage for driving instruction while acting as a driving instructor",
+      "fine": "$30,000",
+      "points": 0,
+      "section": "Regulation 180(2)"
+    },
+    {
+      "description": "Pouring Petrol With Engine Running Or With Naked Light",
+      "fine": "$4,000",
+      "points": 0,
+      "section": "Section 89(4)"
+    },
+    {
+      "description": "Providing services of a driving instructor without being certified by the Authority",
+      "fine": "$40,000",
+      "points": 0,
+      "section": "Regulation 168(4)"
+    },
+    {
+      "description": "Refusal To Allow Vehicle To Be Weighed Or Tested",
+      "fine": "$20,000",
+      "points": 0,
+      "section": "Section 103(2)"
+    },
+    {
+      "description": "Riding on the outside of a vehicle",
+      "fine": "$5,000",
+      "points": 0,
+      "section": "Section 88(2)"
+    },
+    {
+      "description": "Selling, distributing or using a photographic image or video captured by an electronic enforcement device other than for the prosecution of a Part IV offence",
+      "fine": "$50,000",
+      "points": 0,
+      "section": "Regulation 242(4)"
+    },
+    {
+      "description": "Sitting or travelling or permitting person to sit or travel with load being transported",
+      "fine": "$5,000",
+      "points": 0,
+      "section": "Regulation 261(4)"
+    },
+    {
+      "description": "Smoking Ganja While Driving Or Attempting To Drive Or While Being In Charge Of A Vehicle On A Road",
+      "fine": "$10,000",
+      "points": 2,
+      "section": "Section 123"
+    },
+    {
+      "description": "Stopping or parking a non-emergency vehicle at a point within 3 metres of either side of a fire hydrant without consent of a Constable or the Superintendent or other officer of the Jamaica Fire Brigade",
+      "fine": "$5,000",
+      "points": 0,
+      "section": "Regulation 284(2)"
+    },
+    {
+      "description": "Stopping within 12 metres of a bus stop sign",
+      "fine": "$10,000",
+      "points": 0,
+      "section": "Regulation 204(2)"
+    },
+    {
+      "description": "Towing motor vehicle on a toll road by means other than by a tow truck",
+      "fine": "$20,000",
+      "points": 0,
+      "section": "Regulation 249(5)"
+    },
+    {
+      "description": "Transporting dangerous goods while carrying passengers who are unqualified",
+      "fine": "$25,000",
+      "points": 0,
+      "section": "Regulation 286(4)"
+    },
+    {
+      "description": "Transporting dangerous goods without being certified to do so",
+      "fine": "$20,000",
+      "points": 0,
+      "section": "Regulation 290(2)"
+    },
+    {
+      "description": "Travelling on or permitting a person to travel or drive in or on a motor vehicle or trailer while body protrudes beyond the side or rear",
+      "fine": "$5,000",
+      "points": 0,
+      "section": "Regulation 261(4)"
+    },
+    {
+      "description": "Unlawful Use Of Siren Or Other Similar Device",
+      "fine": "$10,000",
+      "points": 0,
+      "section": "Section 52(7)"
+    },
+    {
+      "description": "Unlicensed Motor Vehicle",
+      "fine": "$10,000",
+      "points": 0,
+      "section": "Section 7(3)"
+    },
+    {
+      "description": "Unregistered Motor Vehicle",
+      "fine": "$10,000",
+      "points": 0,
+      "section": "Section 7(3)"
+    },
+    {
+      "description": "Using a car to draw a trailer where the unladen weight equals or exceeds the weight of the drawing vehicle",
+      "fine": "$30,000",
+      "points": 0,
+      "section": "Regulation 250(2)"
+    },
+    {
+      "description": "Using a motor tractor to draw more than two trailers at one time",
+      "fine": "$30,000",
+      "points": 0,
+      "section": "Regulation 250(2)"
+    },
+    {
+      "description": "Using a revolving lamp in contravention of Regulation 103",
+      "fine": "$10,000",
+      "points": 0,
+      "section": "Regulation 103(7)"
+    },
+    {
+      "description": "Using a truck to draw more than one trailer at any one time",
+      "fine": "$30,000",
+      "points": 0,
+      "section": "Regulation 250(2)"
+    },
+    {
+      "description": "Using an articulated motor vehicle to draw a trailer",
+      "fine": "$20,000",
+      "points": 0,
+      "section": "Regulation 249(5)"
+    },
+    {
+      "description": "Using Electronic Communication Device While Driving Or Operating A Vehicle",
+      "fine": "$10,000",
+      "points": 4,
+      "section": "Section 121(4)"
+    },
+    {
+      "description": "Using motor vehicle on the road which is not licensed in accordance with the Act",
+      "fine": "$5,000",
+      "points": 0,
+      "section": "Section 13(5)"
+    },
+    {
+      "description": "Using motor vehicle to damage road sign",
+      "fine": "$50,000",
+      "points": 0,
+      "section": "Regulation 203(3)"
+    },
+    {
+      "description": "Using motor vehicle to tow a broken down or disabled vehicle in contravention of Regulation 249(1)",
+      "fine": "$10,000",
+      "points": 0,
+      "section": "Regulation 249(5)"
+    },
+    {
+      "description": "Using motor vehicle while on a road that is not a main road to travel backwards longer than necessary for the safety or convenience of the occupants or other road users and traffic on the road",
+      "fine": "$5,000",
+      "points": 0,
+      "section": "Regulation 220(2)"
+    },
+    {
+      "description": "Using Wireless Communication Device To View Send Or Compose An Electronic Message While Driving",
+      "fine": "$10,000",
+      "points": 0,
+      "section": "Section 121(4)"
+    },
+    {
+      "description": "Wilfully Defacing Or Destroying Document",
+      "fine": "$10,000",
+      "points": 0,
+      "section": "Section 108(2)"
+    }
+  ]
