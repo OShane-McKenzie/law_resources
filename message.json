@@ -2,7 +2,11 @@
     "message":[
         {
             "priority":"high",
-            "content":"An update was pushed on May 04 2023 11:04 pm with new features. Update the app on the play store if you have not yet done so."
+            "content":"An update was pushed on May 04 2023 11:04 pm with new features."
+        },
+        {
+            "priority":"high",
+            "content":"Update the app on the play store if you have not yet done so."
         },
         {
             "priority":"low",
