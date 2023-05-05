@@ -1,16 +1,16 @@
 {
     "message":[
         {
+            "priority":"low",
+            "content":"Welcome to law resources!"
+        },
+        {
             "priority":"high",
             "content":"An update was pushed on May 04 2023 11:04 pm with new features."
         },
         {
             "priority":"high",
             "content":"Update the app on the play store if you have not yet done so."
-        },
-        {
-            "priority":"low",
-            "content":"Urgent!! Welcome to law resources!"
         },
         {
             "priority":"medium",
