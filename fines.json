@@ -1,4 +1,5 @@
-[
+{
+  "fines":[
     {
       "description": "Aid And Abet No Driver's Licence or Permit",
       "fine": "$15,000",
@@ -882,3 +883,4 @@
       "section": "Section 108(2)"
     }
   ]
+}
