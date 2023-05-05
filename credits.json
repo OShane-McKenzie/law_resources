@@ -1,14 +1,16 @@
-[
-    {
-        "name":"Department of Criminal Investigation Training (DCIT)",
-        "comments":"For guidance and resource contribution towards the development of this app"
-    },
-    {
-        "name":"Verona Seaborne",
-        "comments":"I would like to thank Verona Seaborne for resource contribution towards the development of this app."
-    },
-    {
-        "name":"Zidane Green",
-        "comments":"I would like to thank Zidane Green for ideas about improving user experience."
-    }
-]
+{
+    "credits":[
+        {
+            "name":"Department of Criminal Investigation Training (DCIT)",
+            "comments":"For guidance and resource contribution towards the development of this app"
+        },
+        {
+            "name":"Verona Seaborne",
+            "comments":"I would like to thank Verona Seaborne for resource contribution towards the development of this app."
+        },
+        {
+            "name":"Zidane Green",
+            "comments":"I would like to thank Zidane Green for ideas about improving user experience."
+        }
+    ]
+}
