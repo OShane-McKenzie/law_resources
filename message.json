@@ -1,10 +1,6 @@
 {
     "message":[
         {
-            "priority":"low",
-            "content":"Welcome to law resources!"
-        },
-        {
             "priority":"high",
             "content":"Update: Fixed font colours in dark mode!"
         },
@@ -15,6 +11,14 @@
         {
             "priority":"medium",
             "content":"Knowledge is power!"
+        },
+        {
+            "priority":"low",
+            "content":"More features to come."
+        },
+        {
+            "priority":"medium",
+            "content":"Case file compositions coming in next update!"
         },
         {
             "priority":"low",
