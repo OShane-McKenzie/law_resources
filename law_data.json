@@ -13,14 +13,5 @@
         "samples":"https://oshane-mckenzie.github.io/law_resources/samples.json",
         "fines":"https://oshane-mckenzie.github.io/law_resources/fines.json",
         "credits":"https://oshane-mckenzie.github.io/law_resources/credits.json"
-    },
-    "policies":[
-        "domestic_abuse",
-        "sudden_death",
-        "missing_person",
-        "foreign_national",
-        "traffic_accidents",
-        "threat",
-        "public_interaction"
-    ]
+    }
 }
