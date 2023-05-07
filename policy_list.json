@@ -1,0 +1,11 @@
+{
+  "policies":[
+        "domestic_abuse",
+        "sudden_death",
+        "missing_person",
+        "foreign_national",
+        "traffic_accidents",
+        "threat",
+        "public_interaction"
+    ]
+}
