@@ -6,9 +6,7 @@
         "foreign_national",
         "traffic_accidents",
         "threat",
-        "public_interaction"
-    ],
-  "laws":[
-        "firearms_act"
+        "public_interaction",
+        "case_file_compositions"
     ]
 }
