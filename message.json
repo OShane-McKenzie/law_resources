@@ -2,7 +2,7 @@
     "message":[
         {
             "priority":"high",
-            "content":"Update: Fixed font colours in dark mode!"
+            "content":"Update: Added the firearms act."
         },
         {
             "priority":"high",
@@ -17,12 +17,12 @@
             "content":"More features to come."
         },
         {
-            "priority":"medium",
-            "content":"Case file compositions coming in next update!"
+            "priority":"high",
+            "content":"Case file compositions are now available."
         },
         {
-            "priority":"low",
-            "content":"Have a great day!"
+            "priority":"Medium",
+            "content":"Law Resources!"
         }
     ]
 }
