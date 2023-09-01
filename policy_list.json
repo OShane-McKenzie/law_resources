@@ -8,6 +8,7 @@
         "threat",
         "public_interaction",
         "grievance_management",
-        "case_file_compositions"
+        "case_file_compositions",
+        "quality_management"
     ]
 }
