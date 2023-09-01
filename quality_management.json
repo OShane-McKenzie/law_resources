@@ -12,12 +12,13 @@
     "SCOPE": 7,
     "QUALITY STATEMENT":8
   },
-    "Jamaica Constabulary Force's Journey towards ISO 9001 Certification": [
+  "sections": [
+    {"Jamaica Constabulary Force's Journey towards ISO 9001 Certification": [
         "An important aspect of our continued efforts at reform and modernization is the adoption of standards and the commitment to give quality service to both internal and external customers.",
         "The move to ISO 9001 certification is one bold step that not simply communicate to the world our commitment to quality service but, more importantly,\nsets that framework and enabling environment for every member to insist on achieving quality in every aspect of his/her tasks,\nduties and responsibilities. It is against this background that we have developed the Jamaica",
         "Constabulary Force (JCF) ISO 9001 Quality Management Project."
-    ],
-    "Project Description":[
+    ]},
+    {"Project Description":[
         "The JCF is implementing ISO 9001 standard at its headquarters and three sites namely; the Police Emergency Command Centre (PECC), Duhaney Park and Matilda's Corner Police\nStations. The Implementation of an ISO 9001 quality management system (QMS) is geared",
         "towards:",
         "- developing service standards of quality to meet the needs and expectations of our customers;",
@@ -27,12 +28,12 @@
         "- engaging members to identify improvements and become involve in implementing these improvement actions;",
         "- gaining international recognition for our services and promoting the JCF brand; and",
         "- demonstrating to key local and international stakeholders JCF's commitment to enhancing service delivery and performance."
-    ],
-    "Project Scope":[
+    ]},
+    {"Project Scope":[
         "The services under the current scope for certification are crime investigation services, patrol and emergency response, intervention and preparation of official reports. The JCF will begin\nwith these services and expand to other services.",
         "In coming years, the standard will be integrated in all our services at every location on a phased basis. The JCF is committed to ensuring that quality management becomes a way of life. The current move to ISO 9001 certification is therefore not a pilot programme, but a new\napproach at service delivery."
-    ],
-    "Project Team focus": [
+    ]},
+    {"Project Team focus": [
         "The ISO 9001 Project team will focus on the following:",
         "- Training all site managers in risk management, planning, process-based approach to management, data analysis, root cause analysis, understanding and maintain service quality;",
         "- Development of training matrix for all site personnel and subsequent training.",
@@ -45,8 +46,8 @@
         "- Implement a system to track corrective actions;",
         "- Conduct management reviews on a systematic basis;",
         "- Conduct internal audit to determine the level of conformance to the standard (several personnel from the stations will be trained in Auditing Techniques)."
-    ],
-    "Success Factors": [
+    ]},
+    {"Success Factors": [
         "The evidence of success is demonstrated as follows:",
         "- Certification to ISO 9001 for the HQ and selected sites;",
         "- All personnel are operating to the defined standard of service quality;",
@@ -59,11 +60,11 @@
         "- Quality and systems approach to management are entrenched within the organization;",
         "- Frontline staff becomes more aware of their roles and responsibilities because of increased access to more well-defined policies and procedures.",
         "Against this background, the organization has developed the Jamaica Constabulary Force Quality Management Policy. This policy outlines our commitment to quality; as well as creates a platform on which members' action will reflect the standards and quality of service to which our customers will become accustomed."
-    ],
-    "BACKGROUND": ["Within the context of an organization, Quality Management includes inter alia, the adoption of process approach which ensures that products and services, as well as the means to provide them are consistent at the desired standard of an organization. It places emphasis on the importance of not solely the understanding of, but more so, a commitment to the interrelated and interconnected processes necessary and desirable in order to improve customers' experience. The Jamaica Constabulary Force (JCF) is advancing its efforts to increase Quality Management in the many and varied services it offers to the publics. This bold move to enhance quality management underlies our commitment to improve accountability and professional standards which has become the hallmark of law enforcement within contemporary democracies."],
-    "PURPOSE": ["This document highlights the JCF's policy on Quality Management."],
-    "SCOPE": ["This policy applies to all sworn and unsworn members, including contractors."],
-    "QUALITY STATEMENT": [
+    ]},
+    {"BACKGROUND": ["Within the context of an organization, Quality Management includes inter alia, the adoption of process approach which ensures that products and services, as well as the means to provide them are consistent at the desired standard of an organization. It places emphasis on the importance of not solely the understanding of, but more so, a commitment to the interrelated and interconnected processes necessary and desirable in order to improve customers' experience. The Jamaica Constabulary Force (JCF) is advancing its efforts to increase Quality Management in the many and varied services it offers to the publics. This bold move to enhance quality management underlies our commitment to improve accountability and professional standards which has become the hallmark of law enforcement within contemporary democracies."]},
+    {"PURPOSE": ["This document highlights the JCF's policy on Quality Management."]},
+    {"SCOPE": ["This policy applies to all sworn and unsworn members, including contractors."]},
+    {"QUALITY STATEMENT": [
         "The JCF:",
         "- is fully committed to its role in addressing the safety and security needs of people in Jamaica. We have taken a solemn oath to maintain law and order as we serve the public through the protection of life & property, prevention and detection of crime and the preservation of peace. In doing so, we commit to the strict compliance with, and enforcement of laws and the rule of law;",
         "- will ensure that its systems and processes will be continually improved to satisfy the changing demands of the dynamic landscape in which we operate;",
@@ -71,5 +72,6 @@
         "- recognizes that in order to actualize our vision of being a high-quality service organization, the organization must be committed to improve standards of service delivery, and customer experience through the effective use of technology, process approach to management and evidence-based decision-making;",
         "- is committed to accomplish its strategic priorities and objectives with the purpose of continued advancement towards excellence in policing; and",
         "- is dedicated with the constant effort to improve public confidence."
-    ]
+    ]}
+]
 }
