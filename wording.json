@@ -152,7 +152,192 @@
     "USING MOTOR VEHICLE FOR THE CONVEYANCE OF GANJA": 149,
     "UTTERING FORGED DOCUMENTS": 145,
     "VAGRANCY: IDLE & DISORDERLY PERSON": 151,
-    "WOUNDING WITH INTENT": 152
+    "WOUNDING WITH INTENT": 152,
+    "NOT STOPPING AT BUS STOP": 154,
+    "NOT COMPLETING JOURNEY (ROUTE)": 155,
+    "DISORDERLY SPOTLIGHT ON MOTOR VEHICLE": 156,
+    "DISORDERLY CONDUCT (PASSSENGER)": 157,
+    "MORE PERSON ON DRIVER'S SEAT": 158,
+    "LEAVE MOTOR VEHICLE UNATTENDED": 159,
+    "NO ROAD LICENCE": 160,
+    "OPERATING CONTRARY TO LICENCE": 161,
+    "STOPPING AT BUS STOP": 162,
+    "FAILING TO FIT HEADLAMP TO ELIMINATE GLARE": 163,
+    "NO P.P.V BADGE": 164,
+    "SPEEDING": 165,
+    "EMPLOYING UNLICENSED CONDUCTOR": 166,
+    "NO TIME OR FARE TABLE": 167,
+    "EXCESS PASSENGER": 168,
+    "EXCESS PASSENGER (AID & ABET)": 169,
+    "NO PASSENGER COMMUNICATION SYSTEM": 170,
+    "NO FIRE EXTINGUISHER": 171,
+    "IMPEDING PASSENGER": 172,
+    "EXCESS PASSENGER ON PPV": 173,
+    "CARRYING MORE PERSON": 174,
+    "NO INSURANCE COVERAGE": 175,
+    "OFFENSIVE LANGUAGE ON PPV": 176,
+    "FAILING TO PAY FARE ON PPV": 177,
+    "OPERATING CONTRARY TO TIME TABLE": 178,
+    "FAILING TO COMPLY WITH CONDITION ATTACHED TO ROAD LICENCE": 179,
+    "NO CONDUCTOR ON STAGE/EXPRESS CARRIAGE": 180,
+    "PASSENGER REFUSING TO LEAVING PPV.": 181,
+    "STAGE/EXPRES CARRIAGE NOT STOPPING CLOSE TO LEFT": 182,
+    "FAILING TO GIVE STATEMENTS OF PRESENCE ON MOTOR VEHICLE SUSPECTED TO BE USED AS PPV.": 183,
+    "DECEIVING PASSENGERS AS TO FARE FOR JOURNEY": 184,
+    "NOT PRODUCING DRIVER'S LICENCE TO A CONSTABLE": 185,
+    "FAILING TO SET TAXI METER IN MOTION": 186,
+    "TAMPERING WITH MOTOR VEHICLE": 187,
+    "NO IDENTIFICATION CARD": 188,
+    "NO JACK": 189,
+    "NO SPLASH GUARD": 190,
+    "FAILING TO NOTIFY LICENSING AUTHORITY -OF ALTERNATION TO MOTOR VEHICLES": 191,
+    "GOODS PROTRUDING TO THE REAR": 192,
+    "USING A TYRE WHICH IS SOURCES TO DANGER": 193,
+    "EXCESSIVE NOISE": 194,
+    "NO DIRECTION INDICATOR": 195,
+    "FAILING SIGNAL TO CONSTABLE ON DUTY": 196,
+    "CARRYING PASSENGERS ON OFF/NEAR SIDE OF MOTOR VEHICLE": 197,
+    "FAILING TO NOTIFY AUTHORITY OF CHANGE ADDRESS (Driver's Licence": 198,
+    "FAILING TO NOTIFY AUTHORITY OF THE RE- REGISTRATION OF PPV.": 199,
+    "SPEED TRIAL": 200,
+    "FAILING TO NOTIFY LICENSING AUTHORITY OF CHANGE ADDRESS": 201,
+    "USING WARNING INSTRUMENT ON STATIONARY MOTOR VEHICLE": 202,
+    "DEFECTIVE DIRECTION INDICATOR": 203,
+    "WINDSCREEN WIPER - DEFECTIVE": 204,
+    "NO HEAD LIGHT": 205,
+    "NO REAR LIGHT (TRUCK)": 206,
+    "NO REFLECTOR": 207,
+    "NOT GIVING SIGNAL-WHEN TURNING": 208,
+    "NO EXTERNAL MARKINGS": 209,
+    "NO COMMERCIAL MARKINGS": 210,
+    "DANGEROUS DRIVING ": 211,
+    "CARELESS DRIVING ": 212,
+    "IMPROPER PARKING": 213,
+    "NO PARKING": 214,
+    "OBSTRUCTING TRAFFIC": 215,
+    "STOPPING IN A MANNER LIKELY TO OBSTRUCT TRAFFIC": 216,
+    "DISOBEY ONE WAY": 217,
+    "DISOBEYING NO OVERTAKING LINE": 218,
+    "NOT STOPPING AT STOP SIGN": 219,
+    "DISOBEYING TRAFFIC LIGHT": 220,
+    "NO DESTINATION SIGNS": 221,
+    "PARKING 20ft. OF INTERSECTION": 222,
+    "NO EXTERNAL MARKINGS ": 223,
+    "DISOBEY POLICE SIGNAL/DIRECTION": 224,
+    "FAILURE TO PRODUCE DRIVER'S LICENCE": 225,
+    "FAIL TO PRODUCE REGISTRATION CERTIFICATE": 226,
+    "FAILING TO PRODUCE INSURANCE CERTIFICATE": 227,
+    "FAILING TO NOTIFY AUTHORITY OF CHANGE ADDRESS (Conductors Licence)": 228,
+    "NOT PRODUCING ROAD/CONDUCTORS LICENCE": 229,
+    "REMAINING AT BUS STOP, LONGER THAN NECESSARY (DRIVER)": 230,
+    "REMAINING AT BUS STOP, LONGER THAN NECESSARY (CONDUCTOR)": 231,
+    "NO REGISTRATION PLATE": 232,
+    "OBSCURED LICENCE DISC": 233,
+    "OBSCURED REGISTRATION PLATE (FRONT)": 234,
+    "OBSCURED REGISTRATION PLATE (BACK)": 235,
+    "UNREGISTERED MOTOR VEHICLE": 236,
+    "UNLICENSED MOTOR VEHICLE": 237,
+    "NO CERTIFICATE OF FITNESS": 238,
+    "DISOBEY PEDESTRIAN CROSSING": 239,
+    "BODY PROTRUDING": 240,
+    "PERMITTING BODY PROTRUDING": 241,
+    "REAR LIGHT": 242,
+    "RIDING WITHOUT HEAD LIGHT": 243,
+    "NO REAR LIGHT": 244,
+    "DANGEROUS RIDING": 245,
+    "LEAVING CARRIAGE ON MAIN ROAD": 246,
+    "TOWING": 247,
+    "ALLOWING HIMSELF TO BE TOWED ON PEDAL CYCLE": 248,
+    "PUSHING HAND CART - DURING PEAK HOUR": 249,
+    "CAUSING DEATH BY DANGEROUS DRIVING": 250,
+    "D.A.M.V.W.O.C.": 251,
+    "DRIVING UNDER THE INFLUENCE OF ALCOHOL": 252,
+    "REFUSING TO GIVE NAME AND ADDRESS": 253,
+    "GIVE FALSE NAME AND ADDRESS": 254,
+    "NOT STOPPING AFTER ACCIDENT": 255,
+    "NOT REPORTING ACCIDENT": 256,
+    "CARRY MORE THAN ONE PILLION PASSENGER": 257,
+    "CARRYING PILLION PASSENGER OTHERWISE THAN ASTRIDE": 258,
+    "FAILING TO COMPLY WITH CONDITION OF PROVISIONAL LICENCE": 259,
+    "NOT STOPPING AT PRINCIPAL ROAD": 260,
+    "OBSTRUCTING TRAFFIC ON PRINCIPAL ROAD": 261,
+    "DEFECTIVE MOTOR VEHICLE -(TYRE)": 262,
+    "NO CARRIERS LICENCE- (PUBLIC)": 263,
+    "NO CARRIERS LICENCE - (AID & ABET) (PUBLIC)": 264,
+    "NO CARRIERS LICENCE - (PRIVATE)": 265,
+    "NO CARRIERS LICENCE- (AID & ABET) (PRIVATE)": 266,
+    "UNSECURE LOAD": 267,
+    "NOT HAVING PROPER CONTROL OVER MOTOR VEHICLE": 268,
+    "DRAWING MORE THAN TWO(2) TRAILERS": 269,
+    "DRAWING MORE THAN ONE (1) TRAILERS": 270,
+    "NO REAR VIEWMIRROR": 271,
+    "INEFFECTIVE REAR VIEW MIRROR": 272,
+    "NO WINDSCREEN WIPER": 273,
+    "NO WARNING DEVICE": 274,
+    "NO LICENCE DISC AFFIXED": 275,
+    "NO 'L' DISPLAYED": 276,
+    "DRIVING WITHOUT SUPERVISION": 277,
+    "RIDING ON THE OUTSIDE OF MOTOR CYCLE": 278,
+    "HOLDING ON TO A MOVING VEHICLE": 279,
+    "FAILING TO GIVE NAME AND ADDRESS": 280,
+    "FAILING TO GIVE NAME AND ADDRESS OF OWNER OF VEH.": 281,
+    "NOT ENSURE SAFETY OF PASSENGERS": 282,
+    "EATING/DRINKING ON PPV": 283,
+    "DRIVING WHILST DISQUALIFIED  ": 284,
+    "OBTAINING LICENCE - WHILST DISQUALIFIED": 285,
+    "FAILING TO KEEP TO NEAR SIDE OF ROAD": 286,
+    "OVERTAKING ON THE LEFT": 287,
+    "TRAFFIC - OBSTRUCTING": 288,
+    "HOLDING THE ROAD": 289,
+    "CROSSING SO AS TO OBSTRUCT TRAFFIC": 290,
+    "DRIVING SO AS TO OBSTRUCT TRAFFIC [SECTION 51(1)(E)]": 291,
+    "DRIVING SO AS TO OBSTRUCT TRAFFIC [SECTION 51(1)(F)]": 292,
+    "OVERTAKING WITHOUT CLEAR VIEW": 293,
+    "REVERSING FURTHER THAN NECESSARY": 294,
+    "POURING PETROL IN MOTOR VEHICLE WHILST ENGINE IS RUNNING": 295,
+    "FAILING TO STOP AT THE REQUEST OF A CONSTABLE/PERSON": 296,
+    "DRIVING ACROSS FUNERAL PROCESSION": 297,
+    "DISOBEYING STOP CHILDREN CROSSING SIGN": 298,
+    "DISOBEYING THE POLICE NO PARKING SIGN": 299,
+    "MAKING UNREASONABLE NOISE": 300,
+    "PERMITTING UNREASONABLE AMOUNT SMOKE OF TO ESCAPE": 301,
+    "EQUIPPING MOTOR VEHICLE WITH SIREN HORN": 302,
+    "NO NOISE MUFFLER": 303,
+    "FORGED- LICENCE /LICENSING/REGISTRATION MARKS OR PLATE": 304,
+    "FRAUDULENT USE OF LICENCE/LICENSING/REGISTRATION MARKS OR PLATE": 305,
+    "ENABLING OTHER PERSON TO USE LICENCE/LICENSING/REGISTRATION MARKS OR PLATE": 306,
+    "CLIMBING UPON/INTO/SWINGING MOTOR VEHICLE": 307,
+    "SOUNDING HORN - WITHOUT PERMISSION": 308,
+    "ATTEMPTING MANIPULATE LEVER/STATER/BRAKES/MACHINERY OF MOTOR VEHICLE": 309,
+    "DAMAGING MOTOR VEHICLE": 310,
+    "INTERFERING/TAMPERING WITH MOTOR VEHICLE": 311,
+    "PUTTING IN MOTION ENGINE": 312,
+    "NO HEAD LIGHT (MOTORCYCLE)": 313,
+    "NO REAR LIGHT (MOTORCYCLE)": 314,
+    "NOT WEARING UNIFORM": 315,
+    "NO BUZZAR": 316,
+    "NO ROUTE SIGN": 317,
+    "NO DRIVER'S LICENCE": 318,
+    "ENTERING A PPV OTHER THAN THROUGH THE PROVIDED OPENING": 319,
+    "PARKING WITHIN 15ft. OF FIRE HYDRANT": 320,
+    "OPERATING CONTRARY TO TERMS OF DRIVER'S LICENCE": 321,
+    "FAILURE TO SURRENDER DRIVER'S LICENCE": 322,
+    "DRIVING WITHOUT LIGHT": 323,
+    "DRIVING WITH EXCESS ALCOHOL ON BREATH": 324,
+    "REFUSING BREATH TEST - (ACCIDENT)": 325,
+    "REFUSING BREATH TEST": 326,
+    "DISOBEYING TRAFFIC SIGN": 327,
+    "DISOBEYING BREATH ANALYSIS": 328,
+    "NOT RENEWING DRIVER'S LICENCE": 329,
+    "PARKING AT INTERSECTION": 330,
+    "FRAUDULENT USE OF LICENCE DISC": 331,
+    "MECHANICAL DEFECTS": 332,
+    "DEFECTIVE TYRE": 333,
+    "PERMITTING DRIVER TO DRIVE UNLICENSED (aid & abet no drivers licence)": 334,
+    "NO SEAT BELT": 335,
+    "Not Wearing Protective Helmet": 336,
+    "SMOKING ON PPV": 337,
+    "DRIVING WHILST DISQUALIFIED ": 338
   },
   "wording_book": [
     {
@@ -770,6 +955,726 @@
     {
       "body": "DID EMBEZZLE_________PROPERTY OF_________FOR THE PURPOSE OF______ CONTRARY TO SECTION 22 OF THE LARCENY ACT.",
       "title": "EMBEZZLEMENT"
+    },
+    {
+      "title": "Not stopping at bus stop",
+      "body": "Being the driver of a public passenger vehicle (stage carriage) registered."
+    },
+    {
+      "title": "More Person on Driver's Seat",
+      "body": "Drove a motor vehicle to wit, motor\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 registered\u2026\u2026\u2026\u2026\u2026\u2026\u2026..along\u2026\u2026\u2026..in the parish of\u2026\u2026\u2026..carried more than two (2) persons on the seat along-side the driver's seat and continuous with the driver's seat, in contravention of Regulation 28 (1) (b) (ii) of the regulations made under section 59 of the regulations. Contrary to section 107 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "Not Completing Journey (Route)",
+      "body": "Being the person in charge of a stage carriage registered\u2026\u2026\u2026..to operate along route #................in the corporate area from\u2026\u2026\u2026to \u2026\u2026\u2026\u2026in the parish of\u2026\u2026\u2026\u2026\u2026.wilfully failed to comply with a condition attached to the Road Licence by not completing the said journey along the said route in contravention of section 63 (3) of the Road Traffic Act. Contrary to section 63 (8) of the Road Traffic Act."
+    },
+    {
+      "title": "Disorderly Spotlight on Motor Vehicle",
+      "body": "Being the driver of motor\u2026\u2026\u2026\u2026\u2026.registered\u2026\u2026\u2026\u2026along \u2026\u2026\u2026\u2026in the parish of\u2026\u2026\u2026\u2026\u2026unlawfully did use spotlights on a public road in contravention of section 46 (2) of the Road Traffic Act."
+    },
+    {
+      "title": "Disorderly Conduct (passenger)",
+      "body": "Being the passenger on a public passenger vehicle to wit, motor \u2026\u2026\u2026\u2026registered\u2026\u2026\u2026\u2026..along\u2026\u2026\u2026\u2026 in the parish of \u2026\u2026\u2026\u2026.did unlawfully conduct him/herself in a noisy and disorderly manner while the said vehicle was carrying passengers, in contravention of regulation 134 (1) of the road Traffic Regulations made under section 74 (1) of the road Traffic Act. Contrary to section 107 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "Leave Motor Vehicle Unattended",
+      "body": "Being the driver of a motor motor\u2026\u2026\u2026\u2026. Registered\u2026\u2026\u2026\u2026. along \u2026\u2026\u2026\u2026in the parish of \u2026\u2026\u2026\u2026\u2026.unlawfully did leave the said motor vehicle unattended without having stopped the engine and taken the due precautions against it being moved or moving in his absence. Contrary to section 53 (2) of the Road Traffic Act."
+    },
+    {
+      "title": "No Road Licence",
+      "body": "Being the driver of motor vehicle to wit motor\u2026\u2026\u2026..registered\u2026\u2026.. along \u2026\u2026\u2026..in the parish of \u2026\u2026\u2026 did use the said vehicle as a public passenger vehicle to wit stage carriage without being the holder of a road a road licence, in contravention to section 61(1) of the Road Traffic Act. Contrary to section 61(5) of the Road Traffic Act."
+    },
+    {
+      "title": "Operating Contrary to Licence",
+      "body": "Being the owner of a contract carriage motor vehicle to wit, motor vehicle registered\u2026\u2026\u2026did use the said vehicle as stage carriage along\u2026\u2026\u2026 in the parish of \u2026\u2026\u2026., without being the holder of a licence to use it as a vehicle of that class, in contravention of section 61(1) of the Road Traffic Act. Contrary to section 61(5) of the Road Traffic Act."
+    },
+    {
+      "title": "Stopping at Bus Stop",
+      "body": "Being the driver of a motor vehicle to wit, motor\u2026\u2026\u2026 registered\u2026\u2026\u2026 not being a stage carriage did stop the said vehicle at a point within forty (40) feet of a bus stop erected along \u2026\u2026\u2026on the\u2026\u2026\u2026.side between \u2026\u2026\u2026..and\u2026\u2026\u2026.in the parish\u2026\u2026\u2026., in contravention of regulation 193 (a) of the regulation made by the governor in contravention of section 59 of the Road Traffic Act. Contrary to section 107(3) of the Road Traffic Act."
+    },
+    {
+      "title": "Fail to Fit Head Lamp to Eliminate Glare",
+      "body": "Being the driver of  a motor\u2026\u2026\u2026. Registered\u2026\u2026\u2026. along \u2026\u2026\u2026..in the parish of \u2026\u2026\u2026did fail to have such head lamps constructed, fitted and maintained. The beam of light emitted there from to be deflected downwards, or downwards and to the left at the will of the driver in such manner as to render it capable of dazzling any such people in contravention of section 41 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "Speeding",
+      "body": "Drove a motor\u2026\u2026\u2026registered\u2026\u2026\u2026along\u2026\u2026\u2026.in the parish of\u2026\u2026. at a speed greater than 30/50 miles per hour to wit\u2026\u2026\u2026. Contrary to section 26(1) of the Road Traffic Act."
+    },
+    {
+      "title": "No P.P.V. Badge",
+      "body": "Being the person licensed to act as a driver of motor vehicle failed to wear a badge  in accordance with Form \u201cP1\u201d of the schedule during the period he was engaged on a motor vehicle to wit, motor\u2026\u2026\u2026.. registered\u2026 \u2026\u2026 along\u2026\u2026\u2026.in the parish of\u2026\u2026\u2026.in discharging the duties of a driver as required by regulation 124 of the regulations made under section 76 (c) of the Road Traffic Act. Contrary to section 107(3) of the Road Traffic Act."
+    },
+    {
+      "title": "No Conductor's License",
+      "body": "Being the person acting as conductor on a certain stage Carriage to wit, motor truck registered \u2026 \u2026\u2026 along\u2026\u2026\u2026.in the parish of\u2026\u2026\u2026.., performed such duties without being the holder of a licence for the purpose, in contravention of section 69 (5) of the Road Traffic Act."
+    },
+    {
+      "title": "Employing Unlicensed Conductor",
+      "body": "Being the owner of a Stage Carriage to wit, motor truck registered\u2026\u2026\u2026. along\u2026\u2026\u2026in the parish of\u2026\u2026\u2026did unlawfully employ one\u2026\u2026\u2026to perform the duties of a conductor on the said vehicle without being the holder of a licence for the purpose, in contravention of section 69 (1) of the Road Traffic act."
+    },
+    {
+      "title": "No time or Fare Table",
+      "body": "Being the owner/conductor of a Stage Carriage to wit, motor truck registered\u2026\u2026\u2026did use the said vehicle (permit it to be used) along\u2026\u2026, in the parish of\u2026\u2026\u2026.without carrying thereon a copy of the Time Tables (Fare Tables) to be available for inspection, in contravention of section 63(c) of the Road Traffic act. Contrary to section 63(8) of the Road Traffic act."
+    },
+    {
+      "title": "Excess Passengers",
+      "body": "Used a certain motor vehicle to wit, motor\u2026\u2026\u2026registered\u2026\u2026\u2026.along \u2026\u2026\u2026in the parish of\u2026\u2026\u2026.and contravened the provisions 117 (1) of the Road Traffic Regulations in that the number of passengers to wit, carried on the said vehicle exceeded the seating capacity of the regulation 28, part 3 of the said regulation as amended by Regulation of the Road Traffic Amendment Regulations 1963 contrary to section 107 (3) of the Road Traffic act."
+    },
+    {
+      "title": "Excess Passengers (Aiding & Abetting)",
+      "body": "Did aid and abet, counsel and procure contrary to section 6 of the justice of the Peace Jurisdiction Act, one\u2026\u2026\u2026to carry more than the amount the said\u2026\u2026\u2026 being the driver of a motor vehicle to wit, motor\u2026\u2026\u2026.registered\u2026\u2026\u2026along\u2026\u2026.. in the parish of\u2026\u2026\u2026and contravened the provision of the regulation 117 (1) of the Road Traffic Regulation in that the number of passengers to wit \u2026\u2026\u2026\u2026\u2026carried on the said vehicle exceed the seating capacity of the said vehicle wit\u2026\u2026\u2026\u2026.in accordance with the provision of regulation 28(3) of the Road Traffic Regulations as amended by regulation of the Road Traffic Amendment Regulation 1964, and published in the Jamaica Gazette the 29th March, 1964. Contrary to section 107 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "No Passenger Communication System",
+      "body": "Being the driver of a motor vehicle to wit, motor truck registered\u2026\u2026\u2026. along \u2026\u2026\u2026..in the parish of\u2026\u2026\u2026.., did fail to provide efficient means to enable passengers to signal to the driver, the said vehicle being licensed as a public passenger vehicle to carry more than eighty (80) persons, in contravention of Regulation 91 of the regulations made under section 76 of the Road Traffic Act. Contrary to section 107 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "No Fire Extinguisher",
+      "body": "Being the driver of a motor vehicle to wit, motor truck registered\u2026\u2026\u2026. along\u2026\u2026\u2026\u2026in the parish of\u2026\u2026\u2026.did fail to carry in the said vehicle an apparatus readily available for use in good and efficient working condition for the extinguishing of fire, the said vehicle being licensed as public passenger vehicle to carry eight (8) or more passengers, in contravention of regulation 92 of the regulation made under section 76 of the Road Traffic Act. Contrary to section 107 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "Impeding Passenger on P.P.V",
+      "body": "Being a passenger on a public passenger vehicle to wit, motor\u2026\u2026\u2026.. registered \u2026\u2026\u2026\u2026..along/at\u2026\u2026\u2026\u2026. In the parish of\u2026\u2026\u2026\u2026in the parish of\u2026\u2026\u2026\u2026. did unlawfully and unreasonably on entering the said vehicle impede passenger entering or attempting to entering the said vehicle in contravention to Regulation 134 (3) of the Road Traffic Regulation 1938. Contrary to section 64 of the chapter 346."
+    },
+    {
+      "title": "Excess Passenger on P.P.V",
+      "body": "Being the driver of a motor vehicle to wit,\u2026\u2026\u2026.in the parish of\u2026\u2026\u2026\u2026, contravened the provision Regulation 117 (1) of the Road Traffic Regulations in that the number of passenger to wit, \u2026\u2026\u2026.carried on the said vehicle exceeded the seating capacity of the said vehicle to wit,\u2026\u2026\u2026. In accordance with provision of Regulation 28 (3) of the Road Traffic Regulation as amended by the Regulation of the Road Traffic Amendment Regulation1964, and published in the Jamaica Gazette the 29th March,1964. Contrary to section 107 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "Carrying More Person",
+      "body": "Being the driver of a motor vehicle to wit registered\u2026\u2026\u2026..along\u2026\u2026\u2026.. in the parish of \u2026\u2026\u2026\u2026.carried more than the number stated in the Registration Book in the part marked \u201cSeating Capacity\u201d to wit\u2026\u2026, in contravention of Regulation 28(1) of the regulation made under section 59 of the Road Traffic Act. Contrary to section 107 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "No Insurance Coverage",
+      "body": "Did unlawfully use a motor vehicle to wit, a motor\u2026\u2026\u2026..registered \u2026\u2026\u2026.along\u2026\u2026\u2026..in the parish of\u2026\u2026\u2026., without there being in force in relation to such users a Policy of Insurance or such security in respect as a third party risk as complies with requirements of the motor vehicle insurance (Third Party Risk) Act, in contravention of section 4 (1) of the said act. Contrary to section 4 (2) of the Motor Vehicle Third Party Act."
+    },
+    {
+      "title": "Offensive Language on P.P.V",
+      "body": "Being the passenger on a public passenger vehicle to wit, motor\u2026\u2026\u2026. Registered\u2026\u2026\u2026\u2026.along\u2026\u2026\u2026..in the parish of\u2026\u2026\u2026\u2026unlawfully used obscene/offensive language to wit\u2026\u2026\u2026., while the said vehicle was carrying/waiting to pick up passengers, in contravention of Regulations 134 (1) of the regulation made under section 74 (1) of the Road Traffic Act. Contrary to section 74 (2) of the Road Traffic Act."
+    },
+    {
+      "title": "Failing to Pay Fare on P.P.V",
+      "body": "Being a passenger on a public passenger vehicle to wit, motor truck registered\u2026\u2026\u2026along\u2026\u2026\u2026.in the parish of\u2026\u2026\u2026.unlawfully did fail to pay fare to conductor of the vehicle on demand, in contravention of Regulation 13(b) (1) of the regulation made under section 74 (1) (c) of the Road Traffic Act. Contrary to section 74 (2) of the Road Traffic Act."
+    },
+    {
+      "title": "Operation Contrary to Time Table",
+      "body": "Being the owner of a Stage/Express carriage motor vehicle to wit, motor truck registered\u2026\u2026\u2026..permitted it to be used along\u2026\u2026\u2026in the parish of \u2026\u2026\u2026.contrary to the frequency of the service and the time to be taken each journey, as required by the licensing authority, in contravention of section 63 (3) of the Road Traffic Act. Contrary to section 74 (2) of the Road Traffic Act."
+    },
+    {
+      "title": "Failing to Comply with Condition Attached to Road Licence",
+      "body": "Being the holder of a road licence to operate a\u2026\u2026\u2026.carriage motor vehicle to wit, motor\u2026\u2026\u2026.registered\u2026\u2026\u2026.from\u2026\u2026\u2026to\u2026\u2026\u2026. along\u2026\u2026\u2026did use the said vehicle along\u2026\u2026..in the parish of\u2026\u2026\u2026. and willfully failed to comply with the first condition attached to the said licenced, in contravention of section 63(3) of the Road Traffic Act. Contrary to section 63 (8) of the Road Traffic Act."
+    },
+    {
+      "title": "No Conductor on Stage/Express Carriage",
+      "body": "Being the owner of a Stage/Express Carriage to wit, motor truck registered \u2026\u2026\u2026.did use/causes the said vehicle to be used along\u2026\u2026\u2026in the parish of \u2026\u2026\u2026and failed to carry a conductor thereon, the said vehicle being licenced to carry more than twenty passengers, in contravention of regulation 118 (1) of the regulations made under section 76 of the Road Traffic Act Contrary to section 107 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "Passenger Refusing to Leaving P.P.V",
+      "body": "Being a passenger in a public passenger vehicle to wit, Stage/Express Carriage motor truck registered\u2026\u2026\u2026did fail to leave the said vehicle when required by the conductor on the completion of the journey, the fare for which he paid, in contravention of regulation136 (b) (2) of the regulation made under section 74 (1) (c) of the Road Traffic Act. Contrary to section 74 (2) of the Road Traffic Act."
+    },
+    {
+      "title": "Stage/Express Carriage Not Stopping Close to Left",
+      "body": "Being the driver of a Stage/Express Carriage to wit, motor truck registered \u2026\u2026\u2026.along\u2026\u2026\u2026.in the parish of\u2026\u2026\u2026., did fail when picking up/setting down passengers to stop the vehicle as close as may be to the left or near side of the road, in contravention of regulation 132 (a) of the regulation made under section 76 of the Road Traffic Act. Contrary to section 107 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "Failing to Give Statements of Presence on Motor Vehicle Suspected to be used as P.P.V",
+      "body": "Being a person in a motor vehicle to wit, motor\u2026\u2026\u2026\u2026registered \u2026\u2026\u2026.along\u2026\u2026\u2026.in the parish of\u2026\u2026\u2026.which is reasonably being licensed as a public passengers for hire and reward without being required by a Constable, refused to give a statement in respect of his presence in such vehicle and as to whether he was being conveyed for hire or reward, in contravention of section 46 (j) of the Road Traffic Act. Contrary to section 46 (2) of the Road Traffic Act."
+    },
+    {
+      "title": "Deceiving Passengers as to fare for Journey",
+      "body": "Did unlawfully deceive a passenger as to the fare for a journey when acting as a driver/conductor of a certain public passenger vehicle to wit motor\u2026\u2026\u2026.registered \u2026\u2026\u2026.along\u2026\u2026\u2026.in the parish of\u2026\u2026\u2026.., in contravention of regulation 129 (d) of the regulation made under section 75 (i) of the Road Traffic Act. Contrary to section 46 (2) of the Road Traffic Act."
+    },
+    {
+      "title": "Not Producing Driver's Licence to a Constable",
+      "body": "Being the driver of a motor vehicle to wit, motor\u2026\u2026\u2026.registered\u2026\u2026\u2026. along\u2026\u2026\u2026\u2026in the parish of\u2026\u2026\u2026..unlawfully did fail to produce his driver's licence to a Constable on being required to do so. Contrary to section 22 of the Road Traffic Act."
+    },
+    {
+      "title": "Tampering with motor vehicle",
+      "body": "Without consent of the owner tampered with a motor\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 registered\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026. Contrary to section 46 (c) of the Road Traffic Act."
+    },
+    {
+      "title": "Failing to Set Taxi Meter in Motion",
+      "body": "Being the driver a motor vehicle to wit, a taxi registered\u2026\u2026\u2026. along\u2026\u2026\u2026\u2026in the parish of\u2026\u2026\u2026\u2026did fail to set the mechanism of the taxi meter in motion when taxi was hired in contravention of Regulation 11 (a) of the Road Traffic Act (Taxi and Contract Cars). Regulation 1963 made under section 59 of the Road Traffic Act, and published in the Jamaica Gazette on the 21st November 1963. Contrary to section 107 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "No Identification Card",
+      "body": "Being the driver a motor vehicle to wit, motor\u2026\u2026\u2026.registered\u2026\u2026\u2026. along\u2026\u2026\u2026.in the parish of\u2026\u2026\u2026., did fail to keep displayed in the taxi in a conspicuous manner approved by an Authorized Officer an identification card in the form specified in part 2 of the second schedule bearing the stamp of the licensing authority and exhibition a distant photograph of himself, the dimensions specified therein. Contrary to Regulation 8 (1) of the Road amendment regulation published in the Jamaica Gazette supplement 106 of the 21st November 1963."
+    },
+    {
+      "title": "No Jack",
+      "body": "Being the driver of a public passenger vehicle which to wit, motor\u2026\u2026\u2026 registered\u2026\u2026\u2026.along\u2026\u2026\u2026.in the parish of\u2026\u2026\u2026.., did fail to carry on the said vehicle an apparatus capable of raising any wheel fitted the vehicle not less than six (6) inches clear of the ground, in contravention of Regulation 93 of the regulation made under section 76 of the Road Traffic Act. Contrary to section 107 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "No Splash Guard",
+      "body": "Drove a motor vehicle to wit, motor\u2026\u2026\u2026.registered\u2026\u2026\u2026.along\u2026\u2026\u2026 in the parish of\u2026\u2026\u2026.without the same being provided with fitting to catch, so far as practicable mud or water thrown up by the rotation of the wheel, adequately protection not being afforded by the body of the vehicle, in contravention of Regulation 12 of the regulations made under section 59 of the Road Traffic Act. Contrary to section 107 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "Failing to Notify Licensing Authority of Alternation to motor vehicles",
+      "body": "Being the registered owner of a motor vehicles to wit, motor\u2026\u2026\u2026\u2026.. registered\u2026\u2026\u2026.having altered the said vehicle in such a manner as to affect the accuracy of the particulars in relation to that vehicle entered in the documents of registration and title, unlawfully did fail to notify forthwith the Licensing authority by whom the vehicle is registered and deliver up the document of registration 25a (7) of the Road Traffic Regulations made under section 59 of the Road Traffic Act."
+    },
+    {
+      "title": "Goods Protruding to the Rear",
+      "body": "Being the person in charge of a motor vehicle to wit, motor\u2026\u2026\u2026registered \u2026\u2026\u2026\u2026along\u2026\u2026\u2026\u2026in the parish of \u2026\u2026\u2026. Permitted same to be so loaded that goods to wit\u2026\u2026\u2026. Protruded more than (3) feet beyond the rear of the vehicle, without special permission in writing having been previously granted by an Inspector of Police or a member of the Traffic Area Authority, in contravention of Regulation 184 (d) of the regulations made under section 59 of the Road Traffic Act. Contrary to section 107 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "Using a Tyre Which is Sources to Danger",
+      "body": "Drove a motor vehicle to wit, motor\u2026\u2026\u2026.registered\u2026\u2026\u2026.along\u2026\u2026\u2026 in the parish of\u2026\u2026\u2026., with the\u2026\u2026\u2026\u2026tyre in such a defective condition which might cause danger to person on/in the vehicle or to other persons using the road, in contravention of regulations made under section 59 of the Road Traffic Act. Contrary to section 107 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "Excessive Noise",
+      "body": "Drove a motor vehicle to wit, motor\u2026\u2026\u2026.registered\u2026\u2026\u2026.along \u2026\u2026\u2026.in the parish of\u2026\u2026\u2026., in such a manner as to cause excessive noise which could have been avoided by the \u2026\u2026\u2026.of reasonable care on the part of the driver, in contravention of Regulation 163 of the regulations made under section of the Road Traffic Act. Contrary to section 107 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "No Direction Indicator",
+      "body": "Drove a motor vehicle to wit, motor\u2026\u2026\u2026.registered\u2026\u2026\u2026.along \u2026\u2026\u2026.in the parish of\u2026\u2026\u2026., constructed to be steered from the left or near side thereof without having fitted on the right or off side of the vehicle a mechanical or illuminated device approved by the Island Traffic Authority to be employed by the driver of the vehicle to indicate in a manner approved by the Island Traffic Authority, the intention of the driver to turn or to change direction toward the right or of his intention to stop the vehicle, in contravention of section 57 (5) of the Road Traffic Act. Contrary to section 57(6) of the Road Traffic Act."
+    },
+    {
+      "title": "Improper Parking",
+      "body": "Being the driver of a motor vehicle to wit motor\u2026\u2026\u2026.registered\u2026\u2026\u2026. along \u2026\u2026\u2026.in the parish of\u2026\u2026\u2026.. did fail to place the said vehicle along the said road with its rear side as close to the left of the road way as possible when not in motion, in contravention of section 53 (1) (A) of the Road Traffic Act. Contrary to section 53 (4) (A) of the Road Traffic Act."
+    },
+    {
+      "title": "No Parking",
+      "body": "Being the driver of a motor vehicle to wit, motor\u2026\u2026\u2026..registered\u2026\u2026\u2026. unlawfully failed to comply with traffic signs prohibiting parking on the\u2026\u2026... side of\u2026\u2026\u2026.and \u2026\u2026\u2026\u2026.in the parish of \u2026\u2026\u2026..lawfully erected in the in accordance with section 97 (1) of the Road Traffic Act. Contrary to section 97 (2) of the Road Traffic Act."
+    },
+    {
+      "title": "Obstructing Traffic",
+      "body": "Being the driver of a motor vehicle to wit motor\u2026\u2026\u2026.registered\u2026\u2026\u2026. unlawfully allowed the said vehicle to remain in such a position on the road at \u2026\u2026\u2026\u2026.the parish of\u2026\u2026\u2026.as to obstruct traffic when not in motion, in contravention of section 53 (1) (b) of the Road Traffic Act. Contrary to section 53 (4) (b) of the Road Traffic Act."
+    },
+    {
+      "title": "Stopping in a Manner Likely to Obstruct Traffic",
+      "body": "Being the driver of a motor vehicle to wit motor\u2026\u2026\u2026.registered\u2026\u2026\u2026. unlawfully allowed the said vehicle to remain in such a position on the road at \u2026\u2026\u2026\u2026..the parish of\u2026\u2026\u2026.as to be likely to obstruct traffic when not in motion, in contravention of section 53 (1) (b) of the Road Traffic Act. Contrary to section 53 (4) (b) of the Road Traffic Act."
+    },
+    {
+      "title": "Disobey One Way",
+      "body": "Unlawfully did drive a motor vehicle to wit, motor\u2026\u2026\u2026. registered \u2026\u2026\u2026..in a\u2026\u2026\u2026. direction failed to obey the one way sign prohibiting all vehicles from traveling along\u2026\u2026\u2026.in a\u2026\u2026\u2026.direction between\u2026\u2026\u2026.and \u2026\u2026\u2026., in the parish of\u2026\u2026\u2026.in contravention of 97 (1) (b) of the Road Traffic Act. Contrary to section 97 (2) of the Road Traffic Act."
+    },
+    {
+      "title": "Disobeying no Overtaking Line",
+      "body": "Being the driver of a motor vehicle to wit motor\u2026\u2026\u2026. registered\u2026\u2026\u2026. on a public road to wit, \u2026\u2026\u2026.in the parish of\u2026\u2026\u2026.did unlawfully disobey a traffic sign to wit a \u201cNo overtaking\u201d line drawn along the said road so as to be visible from the said named road, in contravention of section 97 (1) (b) of the Road Traffic Act. Contrary to section 97 (2) of the Road Traffic Act."
+    },
+    {
+      "title": "Not Stopping at Stop Sign",
+      "body": "Being the driver of a motor vehicle to wit, motor\u2026\u2026\u2026registered\u2026\u2026\u2026. on a public road to wit\u2026\u2026\u2026.in the parish of\u2026\u2026\u2026..did unlawfully disobey a traffic sign marked \u201cSTOP\u201d lawfully erected on the said road at the intersection of such road \u2026\u2026\u2026\u2026.. and \u2026\u2026\u2026.so as to be visible from the first named road, in contravention of section 97 (1) (a) of the Road Traffic Act. Contrary to section 97 (2) of the Road Traffic Act."
+    },
+    {
+      "title": "Disobeying Traffic Light",
+      "body": "Being the driver of a motor vehicle to wit, motor\u2026\u2026\u2026registered\u2026\u2026\u2026. on the road at \u2026\u2026\u2026.in the parish of\u2026\u2026\u2026..did fail to comply with the indication given by the red light lawfully erected at the intersection of such road \u2026\u2026\u2026\u2026.. and \u2026\u2026\u2026. so as to be visible from the first named road, in contravention of section 97 (1) (a) of the Road Traffic Act. Contrary to section 97 (2) of the Road Traffic Act."
+    },
+    {
+      "title": "No Destination Signs",
+      "body": "along\u2026\u2026\u2026.in the parish of\u2026\u2026\u2026.without taking reasonable precaution to ensure that the destination of the vehicle was clearly and correctly displayed in contravention of Regulation 131 (b) of the regulation made under section 76 of the Road Traffic Act. Contrary to section 107 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "Parking within 20 ft. of Intersection",
+      "body": "Being the driver of a motor vehicle to wit, motor\u2026\u2026\u2026..registered\u2026\u2026\u2026.. did park the said vehicle at a point within 20 feet of the intersection of \u2026\u2026\u2026..and\u2026\u2026\u2026in the parish of\u2026\u2026\u2026., in contravention of Regulation 1 of the regulations made by the K.S.A.C. on the request of the Island Traffic Authority under section 54 (1) of the Road Traffic Act. Contrary to section 107 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "No External Marking",
+      "body": "Being the driver of a Stage Carriage to wit, motor truck registered\u2026\u2026\u2026. along\u2026\u2026\u2026.in the parish of \u2026\u2026\u2026., did fail to have the approved route legibly painted or affixed in some permanent manner on a conspicuous part of the front and the rear of the vehicle in contravention of Regulation 109 of the regulations made under section 76 of the Road Traffic Act. Contrary to section 107 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "Disobeying Police Signal/Direction",
+      "body": "Being the driver of a motor vehicle to wit, motor\u2026\u2026\u2026.registered\u2026\u2026\u2026. along \u2026\u2026\u2026.in the parish of\u2026\u2026\u2026., did fail to obey the signal//verbal direction to stop the vehicle//to make the vehicle slow down//to pass on an indicated side//to keep to an indicated line of traffic, given by a Constable in the execution of his duty. Contrary to section 58 of the Road Traffic Act."
+    },
+    {
+      "title": "Failing to Produce Driver's Licence",
+      "body": "Being the driver of a motor vehicle to wit, motor\u2026\u2026\u2026.registered\u2026\u2026\u2026. along\u2026\u2026\u2026.in the parish of\u2026\u2026\u2026.,did fail to produce his driver's licence in person within five days at\u2026\u2026\u2026.police station, which was specified by him at the time its production was required. Contrary to section 22 of the Road Traffic Act."
+    },
+    {
+      "title": "Failing to Produce Registration Certificate",
+      "body": "Being the registered owner of a motor vehicle to wit, motor\u2026\u2026\u2026. registered\u2026\u2026\u2026.along\u2026\u2026\u2026.in the parish of\u2026\u2026\u2026.did fail to produce his Registration Certificate within five days at\u2026\u2026\u2026.Police Station which was specified by him at the time of the request in contravention of Regulation 25A (2) of the Road Regulation made under section 59 of the Road Traffic Act. Contrary to section 107 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "Failing to Produce Insurance Certificate",
+      "body": "Being the driver/owner of a motor vehicle to wit, motor\u2026\u2026\u2026. registered \u2026\u2026\u2026. along\u2026\u2026\u2026.in the parish of\u2026\u2026\u2026., on being requested to produce his insurance certificate, did fail to do so within five days at\u2026\u2026\u2026. Police Station, which was specified by him at the time its production was requested. Contrary to section 10 (1) of the Motor Vehicle Insurance Third Party Risk Act."
+    },
+    {
+      "title": "Failing to Notify Authority of Change of Address",
+      "body": "Being the holder of a Conductor's Licence having changed his address, did fail within seven days to notify the Authority by whom the licence was granted of such change of address and produce to such Authority his licence for amendment, in contravention of Regulation 122 of the Regulation made under section 76 of the Road Traffic Act. Contrary to section 107 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "Not Producing Road/Conductors' Licence",
+      "body": "Being the holder of a road/conductor's licence, on being required by a Police Constable along\u2026\u2026\u2026.in the parish of\u2026\u2026\u2026.did fail to produce his licence for examination in contravention of Regulation 123 of the Regulations made under section 76 of the Road Traffic Act. Contrary to section 107 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "Remaining at Bus Stop Longer Than Necessary (Driver)",
+      "body": "Being the driver of Stage Carriage to wit, motor truck registered\u2026\u2026\u2026 did unlawfully cause the said vehicle to remain stationary on a road to wit, \u2026\u2026\u2026in the parish of \u2026\u2026\u2026., longer than is reasonably necessary to pickup/set down passengers not being a stand or place where such vehicles are permitted to stop for longer time than is necessary for that purpose, in contravention of Regulation 132 (b) of the regulations made under section 76 of the Road Traffic Act. Contrary to section 107 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "Remaining at Bus Stop Longer Than Necessary (Conductor)",
+      "body": "Being the conductor of Stage Carriage to wit, motor truck registered\u2026\u2026\u2026 unlawfully and without sufficient reason, by failing to signal the driver to start, did cause the said vehicle to remain stationary on a road to wit, \u2026\u2026\u2026in the parish of \u2026\u2026\u2026., longer than is reasonably necessary to pickup/set down passengers not being a stand or place where such vehicles are permitted to stop for longer time than is necessary for that purpose, in contravention of Regulation 133 of the regulations made under section 76 of the Road Traffic Act. Contrary to section 107 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "No Registration Plate",
+      "body": "Being the driver of a motor vehicle to wit, motor\u2026\u2026\u2026.registered \u2026\u2026\u2026.along\u2026\u2026\u2026in the parish of\u2026\u2026\u2026. did fail to affix and keep affix such Registration Plates on the front and back of the vehicle in such a position that the letter and number thereon shall be visibly and clearly discernible, in contravention of Regulation 27 (a) of the regulations made under section 59 of the Road Traffic Act. Contrary to section 14 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "Obscured Registration Plate (Front)",
+      "body": "Being the owner/person in charge of a motor vehicle to wit, motor \u2026\u2026\u2026.registered\u2026\u2026\u2026..along\u2026\u2026\u2026.in the parish of \u2026\u2026\u2026..unlawfully did fail to have the registration plate at the front of the vehicle affixed in such a manner that the letter and number thereon are upright and clearly discernable from in front of the vehicle, in contravention of Regulation 27 (a) of the regulations made under section 59 of the Road Traffic Act. Contrary to section 14 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "Obscured Registration Plate (Back)",
+      "body": "Being the owner/person in charge of a motor vehicle to wit, motor \u2026\u2026\u2026.registered\u2026\u2026\u2026..along\u2026\u2026\u2026.in the parish of \u2026\u2026.unlawfully did fail to have the registration plate at the back of the vehicle affixed in such a manner that the letter and number thereon are upright and illuminated by the rear light, and clearly discernible at a distance of twenty yards (20) in contravention of Regulation 27 (a) of the regulations made under section 59 of the Road Traffic Act. Contrary to section 14 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "Obscured Licence Disc",
+      "body": "Being the owner/person in charge of a motor vehicle to wit, motor \u2026\u2026\u2026.registered\u2026\u2026\u2026..along\u2026\u2026\u2026.in the parish of \u2026\u2026.did have affixed a Licence disc which was not distinguishable and clearly discernable. Contrary to section 14 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "Unregistered Vehicle",
+      "body": "Drove a motor vehicle to wit, motor\u2026\u2026\u2026.along\u2026\u2026\u2026. in the parish of \u2026\u2026\u2026.without the said vehicle being registered. Contrary to section 14 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "Unlicenced Motor Vehicle",
+      "body": "Drove a motor vehicle to wit, motor\u2026\u2026\u2026.registered \u2026\u2026\u2026\u2026\u2026.along\u2026\u2026\u2026. in the parish of \u2026\u2026\u2026.without the said vehicle being licensed. Contrary to section 14 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "No Certificate of Fitness",
+      "body": "Used a certain motor vehicle to wit, motor\u2026\u2026\u2026.registered\u2026\u2026\u2026.., on a road to wit\u2026\u2026\u2026.in the parish of \u2026\u2026\u2026.without there being issued in respect of the vehicle a Certificate of Fitness that the prescribed conditions as to fitness are fulfilled in respect of the vehicle and such certificate is in force in respect of the vehicle, in accordance with section 10 (1) of the Road Traffic Act. Contrary to section 10 (4) of the Road Traffic Act."
+    },
+    {
+      "title": "Disobeying Pedestrian Crossing",
+      "body": "Being the driver of a motor vehicle to wit, motor\u2026\u2026\u2026.registered \u2026\u2026\u2026.., along the road to wit\u2026\u2026\u2026.in the parish of \u2026\u2026\u2026., unlawfully failed to stop the vehicle at the first of two parallel white lines on the road described as pedestrian crossing when a pedestrian was crossing the road within such lines, in contravention of section 97 (1) of the Road Traffic Act. Contrary to section 97(2) of the Road Traffic Act."
+    },
+    {
+      "title": "Body Protruding",
+      "body": "Being a passenger on a certain motor vehicle to wit, motor\u2026\u2026\u2026. registered along\u2026\u2026\u2026.in the parish of\u2026\u2026\u2026., did travel on the said vehicle in such a manner that part/parts of his/her body protruded beyond the side//rear of the body of the vehicle in contravention of regulation 182 (1) of the regulations made under section 59 of the Road Traffic Act. Contrary to section 107 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "Permitting Body Protruding",
+      "body": "Being the person in charge of a motor vehicle to wit, motor\u2026\u2026\u2026. registered along\u2026\u2026\u2026.in the parish of\u2026\u2026\u2026., did permit a person to travel on the said vehicle in such a manner that part//parts of his//her body protruded beyond the side//rear of the body of the vehicle in contravention of regulation 182 (1) of the regulations made under section 59 of the Road Traffic Act. Contrary to section 107 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "Riding without Head Light",
+      "body": "During the period between one half hour after sunset, and one half hour before sunrise, unlawfully rode a pedal//motor cycle along \u2026\u2026\u2026., in the parish of \u2026\u2026\u2026., without having affixed thereto one headlamp to show when lighted a white light adequate to signal the approach and position of the said pedal//motor cycle in contravention of section 27(1) of the Road Traffic Act. Contrary to section 26 (21) of the Road Traffic Act."
+    },
+    {
+      "title": "No Rear Light",
+      "body": "During the period between one half hour after sunset, and one half hour before sunrise, unlawfully rode a pedal//motor cycle along\u2026\u2026\u2026.in the parish of \u2026\u2026\u2026., without having attached thereto a tail lamp so placed in a position free of all obstruction as to exhibit when lighted a red light visible in the reverse direction at a reasonable distance, in contravention of section 27 (1) of the Road Traffic Act. Contrary to section 26 (21) of the Road traffic Act."
+    },
+    {
+      "title": "Dangerous Riding",
+      "body": "Rode a pedal cycle along\u2026\u2026\u2026..in the parish of \u2026\u2026\u2026., in a manner dangerous to other person using the road. Contrary to section 26 (10) of the Road traffic Act."
+    },
+    {
+      "title": "Leaving Carriage on Main Road",
+      "body": "Left a carriage to wit, a\u2026\u2026\u2026..on a main road to wit , \u2026\u2026\u2026.in the parish \u2026\u2026\u2026., not being left there as a result of an accident for a longer time than is necessary to move the same\u2026\u2026\u2026.. Contrary to section 26 (15) of the Road traffic Act. Any person who willfully or negligently prevents, hinders, or intercepts, the free passage of any other person or carriage or beast, on any main road, or who draw up any carriage in such a manner as to obstruct the free passage along the road. Contrary to section 26 (9) of the Road traffic Act."
+    },
+    {
+      "title": "Towing",
+      "body": "Being the rider of a pedal cycle along\u2026\u2026\u2026.in the parish of \u2026... and within the corporate area, unlawfully did carry a person on the cross bar of the said bicycle. Contrary to Regulations 8 of the regulation for regulating traffic within the corporate area published in the Jamaica gazette on 21st March 1927."
+    },
+    {
+      "title": "Allowing Himself to be towed on Pedal Cycle",
+      "body": "Unlawfully allowed himself to be towed on the cross bar of a pedal bicycle along\u2026\u2026\u2026.in the parish of \u2026\u2026\u2026\u2026.., and within the Corporate Area. Contrary to Regulations 8 of the regulation for regulating traffic within the corporate area published in the Jamaica gazette on 21st March 1927."
+    },
+    {
+      "title": "Pushing Hand Cart during Peak Hour",
+      "body": "Unlawfully did use a hand cart along \u2026\u2026\u2026.in the parish of Kingston between \u2026\u2026\u2026.and\u2026\u2026\u2026.. between the hours of 7:30 am and 9:15 am and 3:30 \u2013 5:00 pm on working day in contravention of Regulations 3(1) of the Road Traffic (Corporate Area) Peak Hour Regulation 1952 made under section 106 of the Road Traffic Act as amended by the Road Traffic Regulation 1954 Gazetted on the 25th May 1954. Contrary to section 107 (3) of the Road traffic Act."
+    },
+    {
+      "title": "Causing Death by Dangerous Driving",
+      "body": "Drove a motor vehicle to wit, motor \u2026\u2026\u2026.registered\u2026\u2026\u2026.. along \u2026\u2026\u2026.in the parish of \u2026\u2026\u2026.and caused the death of \u2026\u2026\u2026.., by driving in a manner vehicle was dangerous to the public, having regard to all the circumstances of the case, including the nature, condition and use of the road, and the amount of traffic which was actually at the time or which might reasonably be expected to be on the road. Contrary to section 30 (1) of Road Traffic Act."
+    },
+    {
+      "title": "D.A.M.V.W.O.C.",
+      "body": "Unlawfully did take and drive away a motor vehicle to wit, motor \u2026\u2026\u2026.registered \u2026\u2026\u2026. along \u2026\u2026\u2026 in the parish of \u2026\u2026\u2026. Without having the owner's consent or other lawfully authority. Contrary to section 45(1) of the Road traffic Act."
+    },
+    {
+      "title": "Driving Under the Influence of Alcohol or Drug",
+      "body": "Being the driver of a motor vehicle to wit, motor \u2026\u2026\u2026.. Registered \u2026\u2026\u2026.along \u2026\u2026\u2026.in the parish of\u2026\u2026\u2026., was under the influence of drink or a drug to such extent as to be incapable of having proper control of the said vehicle. Contrary to section 34 (1) of the Road traffic Act."
+    },
+    {
+      "title": "Refusing to give Name and Address",
+      "body": "Being the driver of a motor vehicle to wit, motor \u2026\u2026\u2026.. registered \u2026\u2026\u2026.along \u2026\u2026\u2026.in the parish of\u2026\u2026\u2026., and who alleged to have committed the offence of reckless, dangerous and careless driving, refused on being required by one\u2026\u2026\u2026.or a person having reasonable ground for so requiring to give his name and address. Contrary to section 37(1) of the Road traffic Act."
+    },
+    {
+      "title": "Give False Name and Address",
+      "body": "Being the driver of a motor to a wit, motor\u2026\u2026\u2026..registered\u2026\u2026\u2026. along \u2026\u2026\u2026in the parish of\u2026\u2026\u2026.., and who is alleged to have committed the offence of reckless, dangerous and or careless driving, or required by one\u2026\u2026\u2026.a person having reasonable ground for so requiring, gave a false name and address. Contrary to section 37 (1) of the Road traffic Act."
+    },
+    {
+      "title": "Not Stopping after Accident",
+      "body": "Being the driver of a motor to a wit, motor\u2026\u2026\u2026..registered\u2026\u2026\u2026. along \u2026\u2026\u2026in the parish of\u2026\u2026\u2026.., and owing to the presence of the said vehicle on the road an accident occurred whereby damage or injury was caused to some person, vehicle or animal, unlawfully did fail to stop, and on being required to so do by\u2026\u2026\u2026., a person having reasonable ground for so requiring, did fail to give name and address, and also the name and address of the owner and the identification marks of the vehicle, in contravention of section 39(1) of the Road Traffic Act. Contrary to section 39 (1) of the Road traffic Act."
+    },
+    {
+      "title": "Not Reporting Accident",
+      "body": "Being the driver of a motor vehicle to wit, motor \u2026\u2026\u2026.registered \u2026\u2026\u2026.was involved in an accident along\u2026\u2026\u2026.in the parish of \u2026\u2026\u2026.., whereby damage/injury was done cause to\u2026\u2026\u2026, unlawfully did fail to report the accident at a police station or to a constable as soon as was practicable and in any case within 24 hours of the occurrence thereof, in contravention of section 39 (2) of the Road Traffic Act. Contrary to section 39 (4) of the Road Traffic Act."
+    },
+    {
+      "title": "Carry more than one Pillion Passenger",
+      "body": "Being the driver of a two-wheel motorcycle registered\u2026\u2026\u2026.along\u2026\u2026\u2026 in the parish of\u2026\u2026\u2026., unlawfully did carry more than one person on the said cycle in addition to himself to wit, one more, in contravention of section 35 (1) of the Road Traffic Act. Contrary to section 35 (2) of the Road Traffic Act."
+    },
+    {
+      "title": "Carrying Pillion Passenger otherwise than Astride",
+      "body": "Being the driver of a two-wheel motorcycle registered\u2026\u2026\u2026.along\u2026\u2026\u2026 in the parish of\u2026\u2026\u2026., unlawfully did carry a pillion rider/person on the said cycle otherwise than sitting astride the cycle and on a proper seat securely fixed to the cycle behind the driver's seat, in contravention of section 35 (1) of the Road Traffic Act. Contrary to section 35 (2) of the Road Traffic Act."
+    },
+    {
+      "title": "Failing to Comply with Condition of Provisional Driver's Licence",
+      "body": "Being the holder of a Provisional Driver's Licence unlawfully did convey a passenger/freight to wit, \u2026\u2026\u2026.in/on motor\u2026\u2026\u2026 registered\u2026\u2026\u2026. along\u2026\u2026\u2026.in the parish of\u2026\u2026\u2026in contravention of Regulation 45 (3) (C) of the regulations made under section 59 of the Road Traffic Act. Contrary to section 16 (6) of the Road Traffic Act."
+    },
+    {
+      "title": "Not stopping at Principal Road",
+      "body": "Being the driver of a motor vehicle to wit, motor\u2026\u2026\u2026.registered\u2026\u2026\u2026. along\u2026\u2026\u2026.in the parish of\u2026\u2026\u2026., before turning into/crossing a principal road to wit\u2026\u2026\u2026.in the said parish, unlawfully did fail to bring the vehicle to a full stop, in contravention of section 103(1) of the Road Traffic Act. Contrary to section 103 (2) of the Road Traffic Act."
+    },
+    {
+      "title": "Obstructing Traffic on a Principal Road",
+      "body": "Being the driver of a motor vehicle to wit, motor\u2026\u2026\u2026.registered\u2026\u2026\u2026. along\u2026\u2026\u2026.in the parish of\u2026\u2026\u2026., on turning into/crossing a principal road to wit\u2026\u2026\u2026..in the said parish, unlawfully did drive the said vehicle so as to obstruct traffic on the principal road, in contravention of section 103(1) of the Road Traffic Act. Contrary to section 103 (27) of the Road Traffic Act."
+    },
+    {
+      "title": "Defective Vehicle",
+      "body": "Did use, drive or permit to be used, or driven a motor vehicle to wit motor \u2026\u2026\u2026 registered\u2026\u2026\u2026. on a certain public road to wit \u2026\u2026\u2026.in the parish of\u2026\u2026\u2026.in such defective condition as regards certain of its mechanical fittings or otherwise as to be a source of danger to its occupants or the public, in contravention of section 46 (1) (G) of the Road Traffic Act. Contrary to section 46 (2) of the Road Traffic Act."
+    },
+    {
+      "title": "No Carriers Licence (Public)",
+      "body": "Being the owner of a Commercial motor car to wit, registered \u2026\u2026\u2026., did use the said vehicle for the carriage of goods to wit \u2026\u2026\u2026.., along\u2026\u2026\u2026in the parish of\u2026\u2026\u2026.., for hire or reward, without being the holder of a carrier's licence in contravention of section 78 (1) (A) of the Toad Traffic Act. Contrary to section 78 (5) of the Road Traffic Act."
+    },
+    {
+      "title": "No Carriers Licence (Aid and Abet) (public)",
+      "body": "Unlawfully did aid and abet, counsel and procure, contrary to section 6 of the Justice of the Peace Jurisdiction Act, one\u2026\u2026\u2026.to use a motor vehicle to wit, motor\u2026\u2026\u2026. registered\u2026\u2026\u2026..along\u2026\u2026\u2026in the parish of \u2026\u2026\u2026.., for the hire or reward without him being the holder of a Carrier's Licence, in contravention of section 78 (1) (A) of the Road Traffic Act. Contrary to section 78 (5) of the Road Traffic Act."
+    },
+    {
+      "title": "No Carrier's Licence (Private)",
+      "body": "Being the owner of a Commercial motor car to wit, registered \u2026\u2026\u2026., did use the said vehicle for the carriage of goods to wit \u2026\u2026\u2026.., along\u2026\u2026\u2026in the parish of\u2026\u2026\u2026.., for or in connection with a trade or business carried on by him, without being the holder of a Carrier's Licence in contravention of section 78 (1) (A) of the Road Traffic Act. Contrary to section 78 (5) of the Road Traffic Act."
+    },
+    {
+      "title": "No Carriers Licence (Aid and Abet) (Private)",
+      "body": "Unlawfully did aid and abet, counsel and procure, contrary to section 6 of the Justice of the Peace Jurisdiction Act, one\u2026\u2026\u2026.to use a motor vehicle to wit, motor\u2026\u2026\u2026. registered\u2026\u2026\u2026..along\u2026\u2026\u2026in the parish of \u2026\u2026\u2026.., for the hire or reward without him being the holder of a Carrier's Licence, in contravention of section 78 (1) (A) of the Road Traffic Act. Contrary to section 78 (5) of the Road Traffic Act."
+    },
+    {
+      "title": "Unsecured Load",
+      "body": "Being the driver/owner of a motor vehicle to wit, motor\u2026\u2026\u2026 registered \u2026\u2026\u2026.along \u2026\u2026\u2026.in the parish of\u2026\u2026\u2026.did fail to have the load to wit\u2026\u2026\u2026.., carried by the said vehicle/trailer so secured that danger was not likely to be caused to any person on the road by reason of the load or any part thereof falling from the vehicle , in contravention of Regulation 153 (2) of the regulations made under section 59 of the road traffic Act. Contrary to section 107 (3) of the Road traffic Act."
+    },
+    {
+      "title": "Not having Proper Control over a Vehicle",
+      "body": "Being who was actually driving a motor vehicle to wit, motor \u2026\u2026\u2026.registered\u2026\u2026\u2026 along \u2026\u2026\u2026.in the parish of\u2026\u2026\u2026was in such a position that he could not have proper control over the vehicle, in contravention of Regulation 168 (2) of the regulations made under 59 of the Road Traffic Act. Contrary to section 107 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "Drawing more than two (2) Trailers",
+      "body": "Being the driver of a motor tractor registered\u2026\u2026\u2026.along\u2026\u2026\u2026.in the parish of\u2026\u2026\u2026., unlawfully did draw more than two trailers to wit, \u2026\u2026\u2026\u2026along the said road in contravention of Regulation 177 of the regulations made under section 59 of the Road Traffic Act. Contrary to section 107 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "Drawing more than one (1) Trailer",
+      "body": "Being the driver of a motor tractor registered\u2026\u2026\u2026.along\u2026\u2026\u2026.in the parish of\u2026\u2026\u2026., unlawfully did draw more than one trailers to wit, \u2026\u2026\u2026\u2026along the said road in contravention of Regulation 177 of the regulations made under section 59 of the Road Traffic Act. Contrary to section 107 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "No Rear View Mirror",
+      "body": "Being the driver of a motor vehicle to wit, motor\u2026\u2026\u2026registered\u2026\u2026\u2026.along \u2026\u2026\u2026.. in the parish of\u2026\u2026\u2026., did fail to have the equipped either internally or externally with a mirror so constructed and fitted to the motor vehicle as to assist the driver if he so desired to become aware of traffic to the rear of the vehicle, in contravention of Regulation 15 of the regulations made under section 59 of the Road Traffic Act. Contrary to section 107 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "Ineffective Rear View Mirror",
+      "body": "Being the driver of a motor vehicle to wit, motor\u2026\u2026\u2026registered\u2026\u2026\u2026.along \u2026\u2026\u2026.. in the parish of\u2026\u2026\u2026., did load the said vehicle with goods to wit, \u2026\u2026\u2026.in a manner rendering the rear view mirror ineffective, in contravention of Regulation 184 ( C)of the Regulations made under section 59 of the Road Traffic Act. Contrary to section 107 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "No Windscreen Wiper",
+      "body": "Did use a motor vehicle to wit, motor\u2026\u2026\u2026.. registered\u2026\u2026\u2026.along \u2026\u2026\u2026.. in the parish of\u2026\u2026\u2026.without the said vehicle being fitted with an efficient automatic wind screen wiper, in contravention of Regulation 16 of the regulations made under section 59 of the Road Traffic Act. Contrary to section 107 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "No Warning Device",
+      "body": "Being the driver of a motor vehicle to wit, motor\u2026\u2026\u2026.registered \u2026\u2026\u2026.along\u2026\u2026\u2026. in the parish of\u2026\u2026\u2026., unlawfully did drive the said vehicle without having attached thereto a horn or other instrument capable of giving audible and sufficient warning of the approach and position of the said vehicle, in contravention of section 43 (1) of the Road Traffic Act. Contrary to section 43 (5) of the Road Traffic Act."
+    },
+    {
+      "title": "No Licence Disc Affixed (Motor car, Motor cycle, Trailer)",
+      "body": "Being the Owner/person in charge of a motor vehicle to wit, motor\u2026\u2026\u2026.registered \u2026\u2026\u2026.along\u2026\u2026\u2026.in the parish of\u2026\u2026\u2026..did fail to affixed or cause to be affixed and keep affixed the current licence in a circular holder attached or affixed on the inside of the windscreen in so conspicuous a position as to be clearly discernible at a distance of five yards from the front of the vehicle in contravention of section 27 (B) of the Regulation made under section 59 of the Road Traffic Act. Contrary to section 107 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "No 'L' Displayed",
+      "body": "Being the holder of a provisional Driver's Licence, drove a motor vehicle to wit motor \u2026\u2026\u2026.registered\u2026\u2026\u2026 along \u2026\u2026\u2026.. in the parish of\u2026\u2026\u2026..without having clearly signed in a conspicuous position on the front and on the back of the vehicle a distinguishing mark in the form set out on the Form \u201cL\u201d of the Schedule, in contravention of Regulation 45 (3)(B) of the regulations made under section 59 of the Road Traffic Act. Contrary to section 16(6) of the Road Traffic Act."
+    },
+    {
+      "title": "Driving without Supervision",
+      "body": "Being the holder of a provisional Driver's Licence, use a motor vehicle to wit motor \u2026\u2026\u2026.registered\u2026\u2026\u2026 along \u2026\u2026\u2026.. in the parish of\u2026\u2026\u2026..without being under the supervision of a person who is the holder of a licence other than a Motor Cycle Driver's Licence or a Provisional Driver's Licence, who should be beside him in the vehicle with no other person seated in the front of the vehicle, in contravention of Regulation 45 (3) (a) of the regulations made under section 59 of the Road Traffic Act. Contrary to section 16(6) of the Road Traffic Act."
+    },
+    {
+      "title": "Riding on the Outside of Motorcycle",
+      "body": "Unlawfully did ride on the outside of a motor vehicle to wit, a motor\u2026\u2026\u2026.registered \u2026\u2026\u2026along\u2026\u2026\u2026.in the parish of\u2026\u2026\u2026 in contravention of section 52(1) of the Road Traffic Act. Contrary to section 52(2) of the Road Traffic Act."
+    },
+    {
+      "title": "Holding on to a Moving Vehicle",
+      "body": "Being a pedestrian/the driver of a motor cycle/the rider of a pedal bicycle/the user of a hand cart along\u2026\u2026\u2026.in the parish of\u2026\u2026\u2026..., unlawfully did hold on to a moving motor vehicle to wit, motor\u2026\u2026\u2026registered\u2026\u2026\u2026.for the purpose of being towed, in contravention of section 46(1)(K) of the Road Traffic Act. Contrary to section 46(2) of the Road Traffic Act."
+    },
+    {
+      "title": "Failing to give Name and Address",
+      "body": "Being the driver of a motor vehicle to wit, motor\u2026\u2026\u2026..registered\u2026\u2026\u2026.along\u2026\u2026\u2026. in the parish of\u2026\u2026\u2026., on being required by a Constable, did fail to give his name and address. Contrary to section 10(1) of the Motor Vehicle Insurance (Third Party Risk) Act."
+    },
+    {
+      "title": "Failing to give Name and Address of Owner of Vehicle",
+      "body": "Being the driver of a motor vehicle to wit, motor\u2026\u2026\u2026..registered\u2026\u2026\u2026.along\u2026\u2026\u2026. in the parish of\u2026\u2026\u2026., on being required by a Constable, did fail to give his name and address of the owner of the vehicle. Contrary to section 10(1) of the Motor Vehicle Insurance (Third Party Risk) Act."
+    },
+    {
+      "title": "Not Ensuring Safety of Passengers",
+      "body": "Being the driver/conductor of a \u2026\u2026\u2026.Carriage to wit, motor...........registered\u2026\u2026\u2026. along/at in the parish of\u2026\u2026\u2026..did fail to take to all reasonable precautions to ensure the safety of passengers in/on entering/alighting from the vehicle, in contravention of Regulation 129( C) of the regulations made under section 76( C) of the Road Traffic Act. Contrary to section 107(3) of the Road Traffic Act."
+    },
+    {
+      "title": "Eating/Drinking on P.PV.",
+      "body": "Being the driver/conductor of a public passenger vehicle to wit, motor\u2026\u2026\u2026registered \u2026\u2026\u2026.along\u2026\u2026\u2026.in the parish of\u2026\u2026\u2026.did eat/drink\u2026\u2026\u2026.during a journey when it had passengers on board in contravention of Regulation129(G) of the regulations made under section 75(1) of the Road Traffic Act. Contrary to section 75(2) of the Road Traffic Act."
+    },
+    {
+      "title": "Driving whilst Disqualified",
+      "body": "Having being on the \u2026\u2026\u2026.day of\u2026\u2026\u202620\u2026\u2026\u2026., disqualified from holding or obtaining a driver's licence for a period of\u2026\u2026\u2026., unlawfully did drive a motor vehicle to wit, motor\u2026\u2026\u2026.registered\u2026\u2026\u2026.along\u2026\u2026\u2026.in the parish of\u2026\u2026\u2026.during such period of disqualification. Contrary to section 24(4) of the Road Traffic Act."
+    },
+    {
+      "title": "Obtaining Licence Whilst Disqualified",
+      "body": "Having being on the\u2026\u2026\u2026. day of\u2026\u2026\u202620\u2026\u2026\u2026., disqualified from holding or obtaining a driver's licence for a period of\u2026\u2026\u2026., unlawfully did apply for and obtain a driver's licence on the\u2026\u2026\u2026day of\u2026\u2026\u2026.20\u2026\u2026\u2026.at the Collectorate in the parish of\u2026\u2026\u2026.during such period of disqualification. Contrary to section 24(4) of the Road Traffic Act."
+    },
+    {
+      "title": "Failing to Keep to the Near Side of Road",
+      "body": "Being the driver of a motor vehicle to wit, motor\u2026\u2026\u2026.registered\u2026\u2026\u2026.along\u2026\u2026\u2026. in the parish of\u2026\u2026\u2026., on meeting/being overtaken by other traffic, did fail to keep the said vehicle to the near side of the road, in contravention of section 51(1)(A) of the Road Traffic Act. Contrary to section 51(4) of the Road Traffic Act."
+    },
+    {
+      "title": "Overtaking on the Left",
+      "body": "Being the driver of a motor vehicle to wit, motor\u2026\u2026\u2026registered\u2026\u2026\u2026\u2026along\u2026\u2026\u2026. in the parish of\u2026\u2026\u2026\u2026, did fail when overtaking other traffic to keep the vehicle on the right or offside to such other traffic, in contravention of section 51(1)(A) of the Road Traffic Act. Contrary to section 51(4) of the Road Traffic Act."
+    },
+    {
+      "title": "Holding the Road",
+      "body": "Being the driver of a motor vehicle to wit, motor\u2026\u2026\u2026registered\u2026\u2026\u2026\u2026along\u2026\u2026\u2026. in the parish of\u2026\u2026\u2026\u2026, on being overtaken by other traffic, did fail to drive the said vehicle so as to allow such other traffic to pass in, in contravention of section 51(1)(B) of the Road Traffic Act. Contrary to section 51(4) of the Road Traffic Act."
+    },
+    {
+      "title": "Overtaking Obstructing Traffic",
+      "body": "Being the driver of a motor vehicle to wit motor\u2026\u2026\u2026..registered\u2026\u2026\u2026.along\u2026\u2026\u2026. in the parish of\u2026\u2026\u2026., did drive the said vehicle alongside of/overlapping/so as to overtake other traffic proceeding in the same direction and by so doing obstructed traffic proceeding in the opposite direction, in contravention of section 51(1)( C) of the Road Traffic Act. Contrary to section 51(4) of the Road Traffic Act."
+    },
+    {
+      "title": "Crossing so as to Obstruct Traffic",
+      "body": "Being the driver of a motor vehicle to wit, motor\u2026\u2026\u2026..registered\u2026\u2026\u2026..along\u2026\u2026\u2026. in the parish of\u2026\u2026\u2026.did drive the said vehicle so as to cross/commence to cross/turn in a road and by so doing obstructed traffic on\u2026\u2026\u2026.in the said parish in contravention of section 51(1)(D) of the Road Traffic Act. Contrary to section 51(4) of the Road Traffic Act."
+    },
+    {
+      "title": "Driving so as to Obstruct Traffic",
+      "body": "Being the driver of a motor vehicle to wit, motor\u2026\u2026\u2026..registered\u2026\u2026\u2026..along\u2026\u2026\u2026. in the parish of\u2026\u2026\u2026., proceeded from the said road onto\u2026\u2026\u2026.and obstructed traffic on the said\u2026\u2026\u2026.. in the said parish, in contravention of section 51(1)(E) of the Road Traffic Act. Contrary to section 51(4) of the Road Traffic Act."
+    },
+    {
+      "title": "Driving so as to Obstruct Traffic",
+      "body": "Being the driver of a motor vehicle to wit, motor\u2026\u2026\u2026.registered\u2026\u2026\u2026., proceeded from a place to wit\u2026\u2026\u2026.which is not a road to wit\u2026\u2026\u2026./proceed from a road to wit \u2026\u2026\u2026..into a place to wit\u2026\u2026\u2026.into a place to wit\u2026\u2026\u2026. which is not a road so as to obstruct traffic on the said road, in contravention of section 51(1)(F) of the Road Traffic Act. Contrary to section 51(4) of the Road Traffic Act."
+    },
+    {
+      "title": "Overtaking without Clear View",
+      "body": "Being the driver of a motor vehicle to wit, motor\u2026\u2026\u2026.registered\u2026\u2026\u2026along\u2026\u2026\u2026. in the parish of\u2026\u2026\u2026., did drive the said vehicle so as to overtake other traffic without having a clear and unobstructed view of the road ahead, in contravention of section 51(1)(G) of the Road Traffic Act. Contrary to section 51(4) of the Road Traffic Act."
+    },
+    {
+      "title": "Reversing further than Necessary",
+      "body": "Being the driver of a motor vehicle to wit, motor\u2026\u2026\u2026.registered\u2026\u2026\u2026along\u2026\u2026\u2026. in the parish of\u2026\u2026\u2026., did permit the said vehicle to travel backwards further than necessary for the turning or other reasonable purpose, in contravention of section 51(1)(H) of the Road Traffic Act. Contrary to section 51(4) of the Road Traffic Act."
+    },
+    {
+      "title": "Pouring Petrol in Motor Vehicle while engine is Running",
+      "body": "Did Unlawfully pour gasoline/diesel oil into the tank of a motor vehicle/into a receptacle in/on a motor vehicle to wit, motor\u2026\u2026\u2026..registered\u2026\u2026\u2026.at\u2026\u2026\u2026.in the parish of \u2026\u2026\u2026., while the engine of the said vehicle was running/when a light other than an electric light was alight in/on the said vehicle, in contravention of section 53(3) of the Road Traffic Act. Contrary to section 53(3) of the Road Traffic Act."
+    },
+    {
+      "title": "Failing to stop at the request of a Constable/Person in command of body of Troops/Person having Charge of Animals",
+      "body": "Being the driver of a motor vehicle to wit, motor\u2026\u2026\u2026.registered\u2026\u2026\u2026along\u2026\u2026\u2026. in the parish of\u2026\u2026\u2026., on being requested by a Constable/Person in command of body of Troops/Person having charge of an animal/animals, who raised his hand as a signal to stop, did fail to cause the said vehicle to immediately be stopped and kept stationary so long as may be reasonably necessary, in contravention to section 56(1) of the Road Traffic Act. Contrary to section 56(3) of the Road Traffic Act."
+    },
+    {
+      "title": "Driving across Funeral Procession",
+      "body": "Being the driver of a motor vehicle to wit, motor\u2026\u2026\u2026.registered\u2026\u2026\u2026along\u2026\u2026\u2026. in the parish of\u2026\u2026\u2026., did drive/attempt to drive across a funeral procession, in contravention of section 56(2) of the Road Traffic Act. Contrary to section 56(3) of the Road Traffic Act."
+    },
+    {
+      "title": "Disobeying \u201cStop Children Crossing\u201d Sign",
+      "body": "Between the hours half past seven in the morning and half past five in the afternoon being the driver of a motor vehicle to wit, motor\u2026\u2026\u2026registered\u2026\u2026\u2026.along\u2026\u2026\u2026in the parish of\u2026\u2026\u2026, did fail to obey a sign marked \u201cStop Children Crossing\u201d lawfully exhibited by a School Crossing Patrol so as to be visible from the said road, in accordance with section 100(1) of the Road Traffic Act. Contrary to section 100(3) of the Road Traffic Act."
+    },
+    {
+      "title": "Disobeying Police No Parking Sign",
+      "body": "Being the driver of motor vehicle to wit, motor\u2026\u2026\u2026registered\u2026\u2026\u2026.along\u2026\u2026\u2026in the parish of\u2026\u2026\u2026, did fail to obey a Police No Parking Sign prohibiting vehicles to park on the\u2026\u2026\u2026side of\u2026\u2026\u2026between\u2026\u2026\u2026.and\u2026\u2026\u2026.as provided for in section 22 (1)(IV) of Jamaica Constabulary Force Act. Contrary to section 22(3) of the Jamaica Constabulary Force Act."
+    },
+    {
+      "title": "Making Unreasonable Noise",
+      "body": "Being the person having control/charge of motor vehicle to wit, motor\u2026\u2026\u2026registered\u2026\u2026\u2026.at/along\u2026\u2026\u2026in the parish of\u2026\u2026\u2026, did sound the horn of the said vehicle so as to make an unreasonable noise, in contravention of section 43(2) of the Road Traffic Act. Contrary to section 43(5) of the Road Traffic Act."
+    },
+    {
+      "title": "Permitting Unreasonable amount of Smoke to Escape",
+      "body": "Being the person having control/charge of a motor vehicle to wit, motor\u2026\u2026\u2026registered \u2026\u2026\u2026.at/along\u2026\u2026\u2026..in the parish of\u2026\u2026\u2026.., did permit an unreasonable amount of smoke to escape from the said vehicle, in contravention of section 43(2) of the Road Traffic Act. Contrary to section 43(5) of the Road Traffic Act."
+    },
+    {
+      "title": "Equipping Motor Vehicle with Siren Horn",
+      "body": "Being the driver/owner of a motor vehicle to wit, motor\u2026\u2026\u2026 registered\u2026\u2026\u2026. at/along \u2026\u2026\u2026in the parish of\u2026\u2026\u2026, such vehicle not being an ambulance or one operated by or on behalf of the Constabulary Force or Fire Brigade, did have the said vehicle equipped with siren horn/device producing a sound which so nearly resembles that produced by a siren so as to deceive or confuse, in contravention of section 43(3) of the Road Traffic Act. Contrary to section 43(5) of the Road Traffic Act."
+    },
+    {
+      "title": "No Noise Muffler",
+      "body": "Being the driver/owner of a motor vehicle to wit, motor\u2026\u2026\u2026 registered\u2026\u2026\u2026. at/along \u2026\u2026\u2026in the parish of\u2026\u2026\u2026, did use the said vehicle without it being equipped with a noise muffler, in contravention of section 43(4) of the Road Traffic Act. Contrary to section 43(5) of the Road Traffic Act."
+    },
+    {
+      "title": "Forged-Licence/Licensing/Registration Marks or Plates",
+      "body": "Forged a\u2026\u2026\u2026..licence/licensing/registration marks/plates issued under the Road Traffic Act, in contravention of section 46(1) (a) of the Road Traffic Act. Contrary to section 46 (2) of the Road Traffic Act."
+    },
+    {
+      "title": "Fraudulent use of Licence//Registration or Plates",
+      "body": "With fraudulent intent altered//used//allowed to be used; a registration plate no\u2026\u2026\u2026\u2026 issued under the Road Traffic Act, in contravention of section 46(1) of the Road Traffic Act. Contrary to section 46 (2) of the Road Traffic Act."
+    },
+    {
+      "title": "Enabling other person to use\u2026\u2026\u2026.Licence/Licensing/Registration Marks or Plates",
+      "body": "With intent to enable\u2026\u2026\u2026..to use a \u2026\u2026\u2026. licence/licensing/registration marks or plates issued under the road Traffic Act, gave/lent the same to the said\u2026\u2026\u2026., in contravention of section 46 (1) (b) of the Road Traffic Act. Contrary to section 46 (2) of the Road Traffic Act."
+    },
+    {
+      "title": "Climbing upon/into/swinging Motor Vehicle",
+      "body": "Without the permission of the owner/person in charge thereof, did climb upon/into/swinging upon a motor vehicle to wit, motor\u2026\u2026\u2026.registered\u2026\u2026\u2026at/along \u2026\u2026\u2026., in the parish of\u2026\u2026\u2026.., whilst the said vehicle was in motion/stationary, in contravention of section 46(1)(c) of the Road Traffic Act. Contrary to section 46(2) of the Road Traffic Act."
+    },
+    {
+      "title": "Sounding Horn without Permission",
+      "body": "Without the permission of the owner/person in charge thereof, did sound the horn/signaling device of a motor vehicle to wit, motor\u2026\u2026\u2026.. registered\u2026\u2026\u2026.at/along in the parish of \u2026\u2026\u2026.., in contravention of section 46(1)(c) of the Road Traffic Act. Contrary to section 46(2) of the Road Traffic Act."
+    },
+    {
+      "title": "Attempting to Manipulate Lever/Starter/Brakes/ Machinery of Motor Vehicle",
+      "body": "Without the permission of the owner/person in charge thereof, attempted to manipulate the lever/starter/brakes/machinery of a motor vehicle to wit, motor\u2026\u2026\u2026registered \u2026\u2026\u2026.. at/along\u2026\u2026\u2026.in the parish of \u2026\u2026\u2026.., in contravention of section 46(1)(c) of the Road Traffic Act. Contrary to section 46(2) of the Road Traffic Act."
+    },
+    {
+      "title": "Damaging Motor Vehicle",
+      "body": "Damaging motor vehicle to wit, motor \u2026\u2026\u2026registered \u2026\u2026\u2026at/along \u2026\u2026\u2026.in the parish of \u2026\u2026\u2026., the property of \u2026\u2026\u2026.in contravention of section 46(2) of the Road Traffic Act."
+    },
+    {
+      "title": "Interfering/tampering with Motor Vehicle",
+      "body": "Without the permission of the owner/person in charge thereof, interfered/tampered with a motor vehicle to wit, motor\u2026\u2026\u2026registered\u2026\u2026\u2026.at/along\u2026\u2026\u2026in the parish of\u2026\u2026\u2026, in contravention of section 46(1)(c) of the Road Traffic Act. Contrary to section 46(2) of the Road Traffic Act."
+    },
+    {
+      "title": "Putting Engine in Motion",
+      "body": "Without the permission of the owner/person in charge thereof, did put in motion the engine of a motor vehicle to wit, motor \u2026\u2026\u2026.registered\u2026\u2026\u2026at/along\u2026\u2026\u2026. in the parish of\u2026\u2026\u2026..while it was standing in contravention of section 46(1)( C) of the Road Traffic Act. Contrary to section 46(2) of the Road Traffic Act."
+    },
+    {
+      "title": "No Head Light (Motor Cycle)",
+      "body": "During the period between one half hour after sunset and one half hour before sunrise being the driver of a motor vehicle to wit, motor\u2026\u2026\u2026registered \u2026\u2026\u2026at/along \u2026\u2026\u2026.in the parish of \u2026\u2026.., unlawfully did fail to carry on the said motor cycle as required by section 40 (3) of the Road Traffic Act, one head-lamp so affixed thereto as to exhibit when lighted a white light only, adequate to signal the approach and position of such motor cycle, in contravention of section 40 (2) of the Road Traffic Act. Contrary to section 40(5) of the Road Traffic Act."
+    },
+    {
+      "title": "No Rear Light (Motor (Cycle)",
+      "body": "During the period between one half hour after sunset and one half hour before sunrise being the driver of a motor vehicle to wit, motor  cycle registered \u2026\u2026\u2026along \u2026\u2026\u2026.in the parish of \u2026\u2026.., unlawfully did fail to carry on the said motor cycle as required by section 40 (3) of the Road Traffic Act, a tail-lamp so placed and in such position as to exhibit when lighted a red light visible in the reverse direction at a reasonable distance, in contravention of section 40 (2) of the Road Traffic Act. Contrary to section 40(5) of the Road Traffic Act."
+    },
+    {
+      "title": "Not Wearing Uniform",
+      "body": "Being the driver/conductor of a stage Carriage to wit, motor truck registered\u2026\u2026\u2026. along\u2026\u2026\u2026.in the parish of\u2026\u2026\u2026..did fail to wear uniform as specified under section 123(A) of the Road Traffic Amendment Regulation of 1988 in contravention of Regulation 123 of the Road Traffic Amendment Regulation of 1988 made under section 75 (1) of the Road Traffic Act. Contrary to section 75 (2) of the Road Traffic Act."
+    },
+    {
+      "title": "No Buzzer",
+      "body": "Being the driver of a motor vehicle to wit, motor\u2026\u2026.. registered\u2026\u2026\u2026. along\u2026\u2026\u2026.in the parish of\u2026\u2026\u2026..did fail to provide efficient means to enable passengers to signal the driver, in contravention of Regulations 91 of the Road Traffic Regulations and published in the Jamaica Gazette on 17th March 1938. Contrary to section 107(3) of the Road Traffic Act."
+    },
+    {
+      "title": "No Route Sign",
+      "body": "Being the driver of a Stage Carriage to wit, motor truck registered \u2026\u2026\u2026along\u2026\u2026\u2026.in the parish of\u2026\u2026\u2026\u2026.., did fail to have the approved route legibly painted or affixed in some permanent manner on a conspicuous part of the front and the rear of the vehicle, in contravention of Regulation 109 of the regulations made under section 76 of the Road Traffic Act. Contrary to section 107 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "No Driver's Licence",
+      "body": "Unlawfully drove a motor \u2026\u2026\u2026.registered \u2026\u2026\u2026.along \u2026\u2026\u2026.in the parish of \u2026\u2026\u2026.without being the holder of a driver's licence for that purpose. Contrary to section 16 (1) of the road Traffic Act."
+    },
+    {
+      "title": "Entering a P.P.V. Other than Through the Provided Opening",
+      "body": "Being an intended passenger on a public passenger vehicle to wit, motor \u2026\u2026\u2026 registered \u2026\u2026\u2026.along \u2026\u2026\u2026.in the parish of \u2026\u2026\u2026.unlawfully did enter/alight from the said vehicle otherwise than the doors or opening provide for the purpose, in contravention of Regulation 134(ii) of the Road Traffic Regulations made under section 74(i) of the Road Traffic Act. Contrary to section 107 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "Parking Within 15ft. of a Fire Hydrant",
+      "body": "Being the driver of a motor \u2026\u2026\u2026registered \u2026\u2026\u2026along \u2026\u2026\u2026 in the parish of \u2026\u2026\u2026.did stop/park the said vehicle at a point within 15 feet of a fire hydrant in contravention of Regulation 6(B) of the Road Traffic Emergency Regulation made under section 59 of the Road Traffic Act. Contrary to section 107 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "Operating Contrary to Terms of Driver's Licence",
+      "body": "Unlawfully did drive a motor \u2026\u2026\u2026.registered \u2026\u2026\u2026along \u2026\u2026\u2026 in the parish of\u2026\u2026\u2026. without being the holder of a driver's licence to drive a vehicle of that class. Contrary to section 16(5) of the Road Traffic Act."
+    },
+    {
+      "title": "Failure to Surrender Driver's Licence",
+      "body": "Being the holder of a driver's licence, having accumulated a total of \u2026\u2026\u2026..demerit points on conviction under the Road Traffic Act and Regulations on being required by notice dated \u2026\u2026\u2026.to surrender your driver's licence to the Licensing Authority within 14 days unlawfully did fail to do so in contravention of section 19(A)(3) of the Road Traffic Act. Contrary to section 19(A) (4) of the Road Traffic Act."
+    },
+    {
+      "title": "Driving Without Lights",
+      "body": "During the period between one half after sunset and one half hour before sunrise drove a motor \u2026\u2026\u2026.on/along \u2026\u2026\u2026.in the parish of \u2026\u2026\u2026.without light illuminating from the lamps of the said vehicle in contravention of section 40(3) of the Road Traffic Act. Contrary to section 40(5) of the Road Traffic Act."
+    },
+    {
+      "title": "Driving with Excess Alcohol Breath",
+      "body": "Unlawfully drove a motor vehicle to wit, motor\u2026\u2026\u2026.registered\u2026\u2026\u2026. on a public road to wit \u2026\u2026\u2026.in the parish of \u2026\u2026\u2026.having consumed alcohol in such a quantity that the proportion thereof in his breath exceeds the prescribed limit of 35 microgram to 100 millilitres of breath to wit\u2026\u2026\u2026..in contravention of section 34(A)(1) of the Road Traffic Act. Contrary to section 34(A)(2) of the Road Traffic Act."
+    },
+    {
+      "title": "Refusing Breath Test (When Accident Occurs)",
+      "body": "Being the driver of a motor vehicle to wit, motor \u2026\u2026\u2026.registered\u2026\u2026\u2026. along \u2026\u2026\u2026.. in the parish of \u2026\u2026\u2026.. and owing to the presence of the said motor vehicle on the said road an accident occurred did without reasonable excuse did fail to provide a specimen of breath, for a breath test on being requested to do so by a Constable having reasonable caused to believe that you were driving the vehicle at the time of the accident. Contrary to section 34 (B) (5) of the Road Traffic Act."
+    },
+    {
+      "title": "Refusing Breath Test (Or See #174)",
+      "body": "Being the driver of a motor vehicle to wit, motor \u2026\u2026\u2026.registered\u2026\u2026\u2026. along \u2026\u2026\u2026.. in the parish of \u2026\u2026\u2026..did without reasonable excuse, did fail to provide a specimen of breath, for a breath test on being requested to do so by a member of the Jamaica Constabulary Force having reasonable cause to suspect that the alcohol level in his breath exceeded the prescribed limit. Contrary to section 34(B)(5) of the Road Traffic Act."
+    },
+    {
+      "title": "Disobeying Traffic Sign",
+      "body": "Being the driver of a motor\u2026\u2026\u2026.registered\u2026\u2026\u2026. on a public road to wit; \u2026\u2026\u2026..in the parish of \u2026\u2026\u2026.did unlawfully disobey a traffic sign to wit;\u2026\u2026\u2026.., lawfully erected on the road at the intersection of such road and \u2026\u2026\u2026.so as to be visible from the first named road in contravention of section 97(1)(B) of the Road Traffic Act. Contrary to section 97(2) of the Road Traffic Act."
+    },
+    {
+      "title": "Refusing Breath Analysis",
+      "body": "Being the driver of a motor vehicle to wit, motor \u2026\u2026\u2026.registered\u2026\u2026\u2026. on a public road to wit,  \u2026\u2026\u2026..in the parish of \u2026\u2026\u2026.upon being required to submit to a breath analysis, in consequence of a breath test carried out under section 34(d) which indicated that there may be presence in that person breath a concentration of alcohol in excess of the prescribed limit, unlawfully failed to do so in accordance with the directions of member of the Constabulary Force. Contrary to section 34(c)(4)(a) of the Road Traffic Act."
+    },
+    {
+      "title": "Not Renewing Driver's licence",
+      "body": "Being the driver of a motor vehicle to wit, motor \u2026\u2026\u2026. registered\u2026\u2026\u2026.. along \u2026\u2026\u2026.. in the parish of\u2026\u2026\u2026. did fail to renew his driver's licence in contravention of Regulation 51 of the regulation made under section 76 of the Road Traffic Act. Contrary to section 107 (3) of the Road Traffic Act."
+    },
+    {
+      "title": "Parking at Intersection",
+      "body": "Being the driver of a motor vehicle to wit; motor\u2026\u2026\u2026. registered \u2026\u2026\u2026.unlawfully did park the said vehicle at point within 20 feet at the intersection of \u2026\u2026\u2026.and \u2026\u2026\u2026.in the Corporate Area in Contravention of regulation made by the KSAC on request of the Island Traffic Authority under section 47 of the Road Traffic Act and published in the Jamaica Gazette on 23rd march 1947."
+    },
+    {
+      "title": "Fraudulent use of Licence Disc",
+      "body": "With fraudulent intent use a licence disc not issued under the road traffic law, Traffic Act, published in the Jamaica Gazette on 17th march 1938.  Contrary to section 39(a) of the Road Traffic Act."
+    },
+    {
+      "title": "Mechanical Defects",
+      "body": "Did use, drive or permit to be used or driven a motor vehicle to wit, motor \u2026\u2026\u2026. registered \u2026\u2026\u2026..on certain public road to wit \u2026\u2026\u2026.in such defective condition as regards certain of its mechanical fittings to wit \u2026\u2026\u2026.as to be a source of danger to its occupants or the public. Traffic Act, published in the Jamaica Gazette on 17th march 1938. Contrary to section 39(g) of the Road Traffic Act."
+    },
+    {
+      "title": "Defective Tyre",
+      "body": "Being the driver of a motor \u2026\u2026\u2026. registered\u2026\u2026\u2026..  along \u2026\u2026\u2026.. in the parish of\u2026\u2026\u2026.did drive said motor \u2026\u2026\u2026.with the\u2026\u2026\u2026.tyre so worn that a portion of the textile material known as breaker strip has become visible in contravention of 157 of the Road Traffic Regulation made under Section 59 of the Road Traffic Act. Contrary to section 107(3) of the Road Traffic Act."
+    },
+    {
+      "title": "Permitting Unlicensed Driver to Drive",
+      "body": "Did employ \u2026\u2026\u2026.to drive a motor vehicle to wit, motor \u2026\u2026\u2026. registered\u2026\u2026\u2026..  along \u2026\u2026\u2026..  in the parish of\u2026\u2026\u2026.without the said \u2026\u2026\u2026.being the owner of a driver's licence. Contrary to section 12(1) of the Road Traffic Act."
+    },
+    {
+      "title": "Not wearing Seat Belt",
+      "body": "Drive a motor \u2026\u2026\u2026.registered \u2026\u2026\u2026..  along \u2026\u2026\u2026.. in the parish of\u2026\u2026\u2026.without wearing a seat belt in contravention to section 43(b)(1)(a) of the Road Traffic Act, Contrary to section 43(b)(3)(a) of the Road Traffic Act."
+    },
+    {
+      "title": "Not Wearing Protective Helmet",
+      "body": "Being the driver of a motor cycle registered \u2026\u2026\u2026.along \u2026\u2026\u2026..in the parish of \u2026\u2026\u2026unlawfully failed to wear a protective helmet in contravention of section 43(d)(1) of the road traffic act. Contrary to section 43(d) (2) (a) of the Road Traffic Act."
+    },
+    {
+      "title": "Smoking in PPV",
+      "body": "Being a passenger on a PPV to wit a motor truck registered \u2026\u2026\u2026.along \u2026\u2026\u2026..in the parish of \u2026\u2026\u2026\u2026did smoke on the said vehicle thereby being display a \u201cNo Smoking\u201d sign. Contrary to section 134(16) of the Road Traffic Regulation of 1959. Contrary to section 107 of the Road Traffic Act."
+    },
+    {
+      "title": "Failing to Issue Ticket to Passenger",
+      "body": "Being the conductor of a stage carriage to wit; motor \u2026\u2026\u2026. registered\u2026\u2026\u2026..  along \u2026\u2026\u2026.. in the parish of\u2026\u2026\u2026\u2026. Did fail to issue tickets to passenger in respect to their journey in contravention of regulation 17 (1) of the Transport Authority Regulation 1988 made under section 18 (9) of the Transport Authority Act. Contrary to section 17(1) and section 19 of the Transport Authority Regulation 1988.  In accordance with section 13(2) of the Transport Authority Act."
+    },
+    {
+      "title": "Being Offensive to Passengers",
+      "body": "Being the conductor of a stage carriage to wit; motor \u2026\u2026\u2026. registered\u2026\u2026\u2026.. along \u2026\u2026\u2026.. in the parish of\u2026\u2026\u2026. Did carry himself in such a manner so as to be offensive to passengers to wit; \u2026\u2026\u2026\u2026\u2026 Contrary to section 13 (C) of the Transport Authority Act."
+    },
+    {
+      "title": "Intercepting Free Passage",
+      "body": "Unlawfully and negligently intercepted the free passage of a carriage along \u2026\u2026\u2026. In the parish of \u2026\u2026\u2026\u2026.. Contrary to section 29(9) of the Main Road Act."
+    },
+    {
+      "title": "Load not Properly Placed on Motor Vehicle",
+      "body": "Carried a certain load to wit: (40 Drums) to wit a motor vehicle in a motor truck registered \u2026\u2026\u2026\u2026. Along\u2026\u2026\u2026\u2026..  in such a manner that danger was likely to be caused to any person on the road by reason of the said load falling from the vehicle in contravention of Regulation 153(2) of the Road Traffic Regulation made under Section 59 of the Road Traffic Act"
+    },
+    {
+      "title": "Contempt of Court (A)",
+      "body": "Did fail to obey the Judge's order to resume cross examination in contempt of court. Contrary to Common Law"
+    },
+    {
+      "title": "Contempt of Court (B)",
+      "body": "Did \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. In contempt of court. Contrary to Common Law"
+    },
+    {
+      "title": "Not Providing Fixed Seats",
+      "body": "Being the driver of a motor vehicle to wit; motor \u2026\u2026\u2026. registered\u2026\u2026\u2026.. Which was carrying passengers along \u2026\u2026\u2026.. in the parish of\u2026\u2026\u2026. Failed to provide fixed seats on the said vehicle, in contravention of regulation 28 (4) of the Road Traffic Regulation 1938. Contrary to section 59 of the Road Traffic Act."
+    },
+    {
+      "title": "Playing Music on P.P.V.",
+      "body": "Being the driver of a public Passenger Vehicle to wit; \u2026\u2026\u2026\u2026. Registered \u2026\u2026\u2026\u2026along route \u2026\u2026\u2026\u2026. In the parish of\u2026\u2026\u2026.. Did play or cause or permit to be played on the said vehicle, a radio, record player, compact disc, or sound equipment or a musical instrument in contravention of Regulation 15 of the Transport Authority Regulation 1988. Contrary to section 19 of the Transport Authority Regulation 1988.  In accordance with section 13(2) (C) of the Transport Authority Act."
+    },
+    {
+      "title": "No Registration Plate Lights",
+      "body": "During the period between one half after sunset and one half hour before sunrise, being the owner/driver drove a motor vehicle to wit; a motor \u2026\u2026\u2026.on/along \u2026\u2026\u2026.in the parish of \u2026\u2026\u2026.did fail to carry a white light sufficiently clear and strong to illuminate the letter and number of the registration plate.  In contravention of section 40(3) of the Road Traffic Act. Contrary to section 40 C (5) of the Road Traffic Act"
+    },
+    {
+      "title": "Breach of the Main Road Act",
+      "body": "Did unlawfully and negligently prevent, hinder or intercept the free passage of other persons on the main road to wit; \u2026\u2026\u2026.in the parish of \u2026\u2026\u2026\u2026.. in such a manner as to obstruct the free passage along the said road Contrary to section 26 (9) of the Main Road Act."
+    },
+    {
+      "title": "Disobey No Parking (Yellow Sidewalk)",
+      "body": "Being the driver of a motor vehicle to wit; motor \u2026\u2026\u2026. registered\u2026\u2026\u2026.. unlawfully failed to comply with the traffic sign prohibiting parking on the left/right side of the road lawfully erected in accordance with section 97 (1) (B) of the Road Traffic Act. Contrary to section 97 (2) of the Road Traffic Act."
+    },
+    {
+      "title": "Accessory after the Fact",
+      "body": "Was a person who conspired with person or persons unknown to have in your possession a\u2026\u2026\u2026\u2026\u2026. motor car registered\u2026\u2026\u2026\u2026.. knowing that same was an unaccustomed vehicle. Knowing procured fraudulent documents similar in appearance to that issued by\u2026\u2026\u2026\u2026\u2026. to wit: registration certificate #............... in the name\u2026\u2026\u2026\u2026\u2026. and /or a certificate of fitness#............... pertaining to\u2026\u2026\u2026\u2026\u2026\u2026 motor vehicle knowing that the same motor car was an unaccustomed or stolen property. Contrary to common law."
+    },
+    {
+      "title": "Accessory Before the Fact",
+      "body": "Was a person who conspired with person(s) unknown to admit into the Island without paying the required duty to wit\u2026\u2026\u2026. and procured a registration plate\u2026\u2026\u2026.and documents\u2026\u2026\u2026..in your name\u2026\u2026\u2026\u2026..knowing that the vehicle was unaccustomed. Contrary to common law."
     }
   ]
 }
