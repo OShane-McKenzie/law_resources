@@ -1,12 +1,12 @@
 {
     "message":[
         {
-            "priority":"high",
-            "content":"New update added traffic offense codes. You will need to update the app to get this feature.\nOther content-related updates will be reflected automatically."
+            "priority":"medium",
+            "content":"Wording for traffic offenses has been added."
         },
         {
             "priority":"high",
-            "content":"Update the app on the play store if you have not yet done so."
+            "content":"Share and give us a rating on the Play store"
         },
         {
             "priority":"medium",
