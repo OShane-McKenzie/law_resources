@@ -19,7 +19,8 @@
         "policy_list":"https://oshane-mckenzie.github.io/law_resources/policy_list.json",
         "law_list":"https://oshane-mckenzie.github.io/law_resources/law_list.json",
         "firearms_act":"https://oshane-mckenzie.github.io/law_resources/firearms_act.json",
-        "quality_management":"https://oshane-mckenzie.github.io/law_resources/quality_management.json"
+        "quality_management":"https://oshane-mckenzie.github.io/law_resources/quality_management.json",
+        "election_duties":"https://oshane-mckenzie.github.io/law_resources/election_duties.json"
         
     }
 }
