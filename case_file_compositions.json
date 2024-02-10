@@ -6,7 +6,10 @@
         "Unlawful Wounding": 1,
         "Assault OB Harm": 2,
         "Assault OGB Harm": 3,
-        "Wounding with Intent (Knife)": 4
+        "Wounding with Intent (Knife)": 4,
+        "Malicious injury to property":5,
+        "Disorderly conduct":6,
+        "Simple larceny":7
       },
       "sections":[
         {
