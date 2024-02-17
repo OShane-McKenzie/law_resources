@@ -1,6 +1,10 @@
 {
     "message":[
         {
+            "priority":"high",
+            "content":"The bail act has been added."
+        },
+        {
             "priority":"medium",
             "content":"Election duties: laws and policies were added"
         },
