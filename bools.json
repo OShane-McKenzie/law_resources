@@ -1,5 +1,5 @@
 {
-    "enable_ad":true,
+    "enable_ad":false,
     "isOnline":true,
     "version": 2.7
 }
