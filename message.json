@@ -2,6 +2,10 @@
     "message":[
         {
             "priority":"high",
+            "content":"Traffic codes section has been updated."
+        },
+        {
+            "priority":"high",
             "content":"Version 2.8 is out.\nVideos and feedback sections were added."
         },
         {
