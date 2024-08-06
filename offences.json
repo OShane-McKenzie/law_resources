@@ -496,40 +496,8 @@
             ]
         },
         {
-            "offence": "Driving Under the Influence of Alcohol or Drugs",
-            "statute": "s.44 Road Traffic Act 1938",
-            "points_to_prove": [
-                "The defendant was driving a motor vehicle.",
-                "The defendant was under the influence of alcohol or drugs.",
-                "The influence impaired the defendant's ability to drive safely."
-            ],
-            "key_words": [
-                "driving",
-                "influence",
-                "alcohol",
-                "drugs",
-                "impairment"
-            ]
-        },
-        {
-            "offence": "Reckless Driving",
-            "statute": "s.45 Road Traffic Act 1938",
-            "points_to_prove": [
-                "The defendant drove a motor vehicle recklessly.",
-                "The driving was dangerous to other road users or pedestrians.",
-                "The defendant acted with disregard for the safety of others."
-            ],
-            "key_words": [
-                "reckless",
-                "driving",
-                "dangerous",
-                "disregard",
-                "safety"
-            ]
-        },
-        {
-            "offence": "Careless Driving",
-            "statute": "s.46 Road Traffic Act 1938",
+            "offence": "Careless Driving Where No Collision Occurs",
+            "statute": "s.59(1) Road Traffic Act 2018",
             "points_to_prove": [
                 "The defendant drove a motor vehicle in a careless manner.",
                 "The driving was not as careful as it should have been.",
@@ -544,39 +512,8 @@
             ]
         },
         {
-            "offence": "Failure to Provide Information as to Identity of Driver",
-            "statute": "s.49 Road Traffic Act 1938",
-            "points_to_prove": [
-                "The defendant was required to provide information about the identity of the driver of a motor vehicle.",
-                "The defendant failed to provide the information.",
-                "The failure was without reasonable excuse."
-            ],
-            "key_words": [
-                "failure",
-                "provide",
-                "information",
-                "identity",
-                "driver"
-            ]
-        },
-        {
-            "offence": "Driving Without a License",
-            "statute": "s.50 Road Traffic Act 1938",
-            "points_to_prove": [
-                "The defendant drove a motor vehicle.",
-                "The defendant did not have a valid driving license.",
-                "The driving was unauthorized by law."
-            ],
-            "key_words": [
-                "driving",
-                "without",
-                "license",
-                "unauthorized"
-            ]
-        },
-        {
-            "offence": "Driving Without Insurance",
-            "statute": "s.51 Road Traffic Act 1938",
+            "offence": "No Motor Vehicle Insurance",
+            "statute": "s.7(3) Road Traffic Act 2018",
             "points_to_prove": [
                 "The defendant drove a motor vehicle.",
                 "The vehicle was not covered by valid insurance.",
