@@ -1,0 +1,594 @@
+{
+    "offences": [
+        {
+            "offence": "Assault Occasioning Actual Bodily Harm",
+            "statute": "Common Law",
+            "points_to_prove": [
+                "Assault",
+                "Actual bodily harm",
+                "The assault occasioned the bodily harm."
+            ],
+            "key_words": [
+                "assault",
+                "fight",
+                "bruise",
+                "swelling",
+                "beat",
+                "quarrel"
+            ]
+        },
+        {
+            "offence": "Assault at Common Law",
+            "statute": "Common Law",
+            "points_to_prove": [
+                "Assault",
+                "Intention to cause apprehension in the mind of the victim, or Recklessness as to whether the victim would apprehend immediate and unlawful violence.",
+                "Lack of consent"
+            ],
+            "key_words": [
+                "assault",
+                "fight",
+                "bruise",
+                "swelling",
+                "beat",
+                "quarrel"
+            ]
+        },
+        {
+            "offence": "Manslaughter",
+            "statute": "Common Law",
+            "points_to_prove": [
+                "Was the defendant was of sound mind and discretion",
+                "Did defendant owed a duty of care towards the victim.",
+                "Did defendant's act or omission exposed the victim to a serious and obvious risk of death.",
+                "The defendant's act or omission could be characterized as gross negligence",
+                "The grossly negligent conduct caused or made a significant contribution to the victim's death.",
+                "Death",
+                "Defendant carried out a dangerous unlawful act.",
+                "The defendant's unlawful act caused the death of the victim."
+            ],
+            "key_words": [
+                "kill",
+                "death",
+                "accident",
+                "die",
+                "murder"
+            ]
+        },
+        {
+            "offence": "Murder",
+            "statute": "Common Law",
+            "points_to_prove": [
+                "The defendant was of sound mind and discretion",
+                "The victim was a reasonable creature in being",
+                "The killing was unlawful",
+                "The defendant's act or omission caused the death of the victim.",
+                "Death",
+                "The defendant had an intent to kill or cause grievous bodily harm."
+            ],
+            "key_words": [
+                "kill",
+                "death",
+                "accident",
+                "die",
+                "murder"
+            ]
+        },
+        {
+            "offence": "Shooting with Intent",
+            "statute": "Section 20, Offences against the Person Act 1864",
+            "points_to_prove": [
+                "The defendant acted unlawfully",
+                "The defendant acted maliciously",
+                "The defendant shot at a person or attempted to discharge a loaded firearm.",
+                "Intent."
+            ],
+            "key_words": [
+                "shoot",
+                "shooting",
+                "shot",
+                "fire",
+                "kill",
+                "gun",
+                "firearm"
+            ]
+        },
+        {
+            "offence": "Unlawful Wounding",
+            "statute": "s.22 Offences Against the Person Act 1864",
+            "points_to_prove": [
+                "The defendant acted unlawfully",
+                "The defendant acted maliciously",
+                "The defendant's actions caused the victim's injury",
+                "The victim suffered a wound",
+                "The victim suffered grievous bodily harm."
+            ],
+            "key_words": [
+                "wound",
+                "injury",
+                "harm",
+                "malicious",
+                "unlawful"
+            ]
+        },
+        {
+            "offence": "Simple Larceny",
+            "statute": "s.5 Larceny Act 1942",
+            "points_to_prove": [
+                "The defendant had 'taken' property.",
+                "The property was owned by the victim.",
+                "The defendant had 'carried away' the property.",
+                "Without the consent of the owner.",
+                "Property capable of being stolen.",
+                "Fraudulently and without a claim of right made in good faith.",
+                "An intention to permanently deprive the owner of the property at the time the property was taken."
+            ],
+            "key_words": [
+                "larceny",
+                "theft",
+                "steal",
+                "property",
+                "taken",
+                "carried away",
+                "consent",
+                "intent"
+            ]
+        },
+        {
+            "offence": "Abstracting Electricity",
+            "statute": "s.15 Larceny Act 1942",
+            "points_to_prove": [
+                "The defendant either abstracted, caused to be wasted, diverted, consumed, or used electricity.",
+                "The defendant's actions were either malicious or fraudulent."
+            ],
+            "key_words": [
+                "electricity",
+                "abstract",
+                "wasted",
+                "divert",
+                "consume",
+                "fraudulent"
+            ]
+        },
+        {
+            "offence": "Larceny from the Person",
+            "statute": "s.19 Larceny Act 1942",
+            "points_to_prove": [
+                "Stealing of chattel, money, or valuable securities from the person of another.",
+                "False pretences.",
+                "An intention to defraud.",
+                "Obtaining, causing delivery of, or procurement of a chattel, money, or valuable security, or execution of or affixing a name to a valuable security.",
+                "Caused or induced by fraud."
+            ],
+            "key_words": [
+                "larceny",
+                "theft",
+                "chattel",
+                "money",
+                "securities",
+                "fraud",
+                "pretences"
+            ]
+        },
+        {
+            "offence": "Obtaining Credit by Fraud",
+            "statute": "s.36 Larceny Act 1942",
+            "points_to_prove": [
+                "The defendant incurred a debt/liability and obtained credit.",
+                "False pretences or any other fraud.",
+                "The creditor provided the credit based on the false pretence or fraud."
+            ],
+            "key_words": [
+                "credit",
+                "fraud",
+                "debt",
+                "false pretences",
+                "liability"
+            ]
+        },
+        {
+            "offence": "Robbery",
+            "statute": "s.37(2) Larceny Act 1942",
+            "points_to_prove": [
+                "Criteria for simple larceny are met.",
+                "Immediately before or at the time of the simple larceny, the defendant committed the act of robbery by using force on the victim or putting the victim in fear of being subjected to force.",
+                "Aggravating features (e.g., defendant armed, with another person, or used personal violence)."
+            ],
+            "key_words": [
+                "robbery",
+                "larceny",
+                "force",
+                "violence",
+                "fear"
+            ]
+        },
+        {
+            "offence": "Robbery with Aggravation",
+            "statute": "s.37(1) Larceny Act 1942",
+            "points_to_prove": [
+                "Criteria for simple larceny are met.",
+                "The defendant assaulted the victim (only for assault with intent to rob).",
+                "At the time of the robbery or attempted robbery, the defendant was either armed with an offensive weapon, with one or more persons, or used personal violence."
+            ],
+            "key_words": [
+                "robbery",
+                "aggravation",
+                "assault",
+                "armed",
+                "violence"
+            ]
+        },
+        {
+            "offence": "Assault with Intent to Rob",
+            "statute": "s.37(3) Larceny Act 1942",
+            "points_to_prove": [
+                "The defendant assaulted the victim.",
+                "At the time of the assault, the defendant intended to rob the victim."
+            ],
+            "key_words": [
+                "assault",
+                "intent",
+                "rob",
+                "robbery"
+            ]
+        },
+        {
+            "offence": "Burglary",
+            "statute": "s.39 Larceny Act 1942",
+            "points_to_prove": [
+                "In the night.",
+                "The offence took place at a dwelling-house.",
+                "The defendant either broke and entered or broke out.",
+                "Either had the intent to commit a felony at the time of entry or committed a felony prior to breaking out."
+            ],
+            "key_words": [
+                "burglary",
+                "dwelling-house",
+                "break",
+                "enter",
+                "felony"
+            ]
+        },
+        {
+            "offence": "House-Breaking with Intent and Committing Felony",
+            "statute": "s.40 Larceny Act 1942",
+            "points_to_prove": [
+                "The defendant either broke and entered or broke out.",
+                "The premises were a dwelling-house, school-house, shop, warehouse, etc.",
+                "Commission of a felony on the premises."
+            ],
+            "key_words": [
+                "house-breaking",
+                "felony",
+                "premises",
+                "dwelling-house"
+            ]
+        },
+        {
+            "offence": "Entering a Dwelling-House at Night with Intent to Commit a Felony",
+            "statute": "s.41(a) Larceny Act 1942",
+            "points_to_prove": [
+                "The defendant entered a dwelling-house at night.",
+                "The entry was with the intent to commit a felony."
+            ],
+            "key_words": [
+                "enter",
+                "dwelling-house",
+                "night",
+                "felony",
+                "intent"
+            ]
+        },
+        {
+            "offence": "House-Breaking with Intent to Commit a Felony",
+            "statute": "s.41(b) Larceny Act 1942",
+            "points_to_prove": [
+                "The defendant broke and entered.",
+                "The premises were a dwelling-house, school-house, shop, warehouse, etc.",
+                "At the time of entry, the defendant intended to commit a felony."
+            ],
+            "key_words": [
+                "house-breaking",
+                "intent",
+                "felony",
+                "dwelling-house",
+                "premises"
+            ]
+        },
+        {
+            "offence": "Unauthorised Access to a Computer Program or Data",
+            "statute": "s.3(1) Cybercrimes Act 2015",
+            "points_to_prove": [
+                "The defendant obtained access to a computer program or data held in a computer.",
+                "The access was unauthorised.",
+                "The defendant knew that the access was unauthorised."
+            ],
+            "key_words": [
+                "unauthorised",
+                "access",
+                "computer",
+                "data",
+                "program"
+            ]
+        },
+        {
+            "offence": "Access with Intent to Commit or Facilitate the Commission of an Offence",
+            "statute": "s.4(1) Cybercrimes Act 2015",
+            "points_to_prove": [
+                "The defendant obtained access to a computer program or data held in a computer.",
+                "Intention to commit or facilitate the commission of an offence punishable by more than 1 year's imprisonment."
+            ],
+            "key_words": [
+                "access",
+                "computer",
+                "data",
+                "intent",
+                "offence"
+            ]
+        },
+        {
+            "offence": "Unauthorised Modification of a Computer Program or Data",
+            "statute": "s.5(1) Cybercrimes Act 2015",
+            "points_to_prove": [
+                "The defendant did an act likely to cause unauthorised modification of the contents of a computer."
+            ],
+            "key_words": [
+                "unauthorised",
+                "modification",
+                "computer",
+                "program",
+                "data"
+            ]
+        },
+        {
+            "offence": "Unauthorised Interception of a Computer Function or Service",
+            "statute": "s.6 Cybercrimes Act 2015",
+            "points_to_prove": [
+                "The defendant knowingly acted without authorisation.",
+                "The defendant either secured access to a computer or intercepted any function of a computer.",
+                "The interception was not permitted under the Interception of Communications Act 2002."
+            ],
+            "key_words": [
+                "unauthorised",
+                "interception",
+                "computer",
+                "function",
+                "service"
+            ]
+        },
+        {
+            "offence": "Unauthorised Obstruction of the Operation of a Computer",
+            "statute": "s.7(1) Cybercrimes Act 2015",
+            "points_to_prove": [
+                "The defendant acted wilfully and without authorisation or lawful justification.",
+                "The defendant caused degradation, failure, interruption, or obstruction of the operation of a computer."
+            ],
+            "key_words": [
+                "unauthorised",
+                "obstruction",
+                "computer",
+                "operation",
+                "degradation"
+            ]
+        },
+        {
+            "offence": "Computer Related Fraud or Forgery",
+            "statute": "s.8(1) Cybercrimes Act 2015",
+            "points_to_prove": [
+                "The defendant inputted, altered, deleted, or suppressed data, or interfered with a computer function.",
+                "The actions caused loss to the property or were intended to procure an advantage for himself or another."
+            ],
+            "key_words": [
+                "fraud",
+                "forgery",
+                "computer",
+                "data",
+                "alter",
+                "delete"
+            ]
+        },
+        {
+            "offence": "Use of a Computer for Malicious Communication",
+            "statute": "s.9(1) Cybercrimes Act 2015",
+            "points_to_prove": [
+                "The defendant used a computer to send data that was obscene, threatening, or menacing.",
+                "Intent to harass or cause harm or apprehension of harm."
+            ],
+            "key_words": [
+                "malicious",
+                "communication",
+                "computer",
+                "obscene",
+                "threatening",
+                "harass"
+            ]
+        },
+        {
+            "offence": "Unlawfully Making Available Devices or Data for the Commission of an Offence",
+            "statute": "s.10(1) Cybercrimes Act 2015",
+            "points_to_prove": [
+                "The defendant possessed, received, manufactured, sold, imported, distributed, disclosed, or made available a computer, key, or device.",
+                "The actions were for the purpose of committing or facilitating an offence under sections 3 to 9 of the Act.",
+                "The device was designed or adapted for committing an offence."
+            ],
+            "key_words": [
+                "unlawful",
+                "devices",
+                "data",
+                "commission",
+                "offence"
+            ]
+        },
+        {
+            "offence": "Offences Prejudicing Investigation",
+            "statute": "s.13 Cybercrimes Act 2015",
+            "points_to_prove": [
+                "The defendant knew or had reasonable grounds to believe an investigation was being conducted.",
+                "The defendant made a disclosure or falsified, concealed, destroyed, or disposed of documents or data.",
+                "The actions were likely to prejudice the investigation or the document/data was relevant."
+            ],
+            "key_words": [
+                "prejudicing",
+                "investigation",
+                "disclosure",
+                "documents",
+                "data"
+            ]
+        },
+        {
+            "offence": "Exporting, Importing or Taking Preparatory Steps to Exporting Ganja",
+            "statute": "s.7A(1) Dangerous Drugs Act 1948",
+            "points_to_prove": [
+                "The defendant imported, exported, or took preparatory steps to export ganja.",
+                "No defence applies."
+            ],
+            "key_words": [
+                "exporting",
+                "importing",
+                "ganja",
+                "preparatory",
+                "drugs"
+            ]
+        },
+        {
+            "offence": "Cultivating, Gathering, Producing, Selling or Otherwise Dealing in Ganja",
+            "statute": "s.7B(1)(a) Dangerous Drugs Act 1948",
+            "points_to_prove": [
+                "The defendant cultivated, gathered, produced, sold, or dealt in ganja.",
+                "No defence applies."
+            ],
+            "key_words": [
+                "cultivating",
+                "gathering",
+                "producing",
+                "selling",
+                "ganja",
+                "drugs"
+            ]
+        },
+        {
+            "offence": "Using Premises or Knowingly Permitting Premises to be Used to Cultivate, Store, Sell or Otherwise Deal in Ganja",
+            "statute": "s.7B(1)(b) Dangerous Drugs Act 1948",
+            "points_to_prove": [
+                "The defendant was the owner/occupier of premises.",
+                "The defendant used or knowingly permitted the premises to be used for cultivating, storing, selling, or otherwise dealing in ganja."
+            ],
+            "key_words": [
+                "premises",
+                "ganja",
+                "cultivate",
+                "store",
+                "sell",
+                "deal"
+            ]
+        },
+        {
+            "offence": "Possession of Ganja",
+            "statute": "s.8 Dangerous Drugs Act 1948",
+            "points_to_prove": [
+                "The defendant had possession of ganja.",
+                "The ganja was found in the defendant's possession."
+            ],
+            "key_words": [
+                "possession",
+                "ganja",
+                "drugs"
+            ]
+        },
+        {
+            "offence": "Driving Under the Influence of Alcohol or Drugs",
+            "statute": "s.44 Road Traffic Act 1938",
+            "points_to_prove": [
+                "The defendant was driving a motor vehicle.",
+                "The defendant was under the influence of alcohol or drugs.",
+                "The influence impaired the defendant's ability to drive safely."
+            ],
+            "key_words": [
+                "driving",
+                "influence",
+                "alcohol",
+                "drugs",
+                "impairment"
+            ]
+        },
+        {
+            "offence": "Reckless Driving",
+            "statute": "s.45 Road Traffic Act 1938",
+            "points_to_prove": [
+                "The defendant drove a motor vehicle recklessly.",
+                "The driving was dangerous to other road users or pedestrians.",
+                "The defendant acted with disregard for the safety of others."
+            ],
+            "key_words": [
+                "reckless",
+                "driving",
+                "dangerous",
+                "disregard",
+                "safety"
+            ]
+        },
+        {
+            "offence": "Careless Driving",
+            "statute": "s.46 Road Traffic Act 1938",
+            "points_to_prove": [
+                "The defendant drove a motor vehicle in a careless manner.",
+                "The driving was not as careful as it should have been.",
+                "The defendant's carelessness was likely to cause danger to other road users or pedestrians."
+            ],
+            "key_words": [
+                "careless",
+                "driving",
+                "danger",
+                "road",
+                "pedestrians"
+            ]
+        },
+        {
+            "offence": "Failure to Provide Information as to Identity of Driver",
+            "statute": "s.49 Road Traffic Act 1938",
+            "points_to_prove": [
+                "The defendant was required to provide information about the identity of the driver of a motor vehicle.",
+                "The defendant failed to provide the information.",
+                "The failure was without reasonable excuse."
+            ],
+            "key_words": [
+                "failure",
+                "provide",
+                "information",
+                "identity",
+                "driver"
+            ]
+        },
+        {
+            "offence": "Driving Without a License",
+            "statute": "s.50 Road Traffic Act 1938",
+            "points_to_prove": [
+                "The defendant drove a motor vehicle.",
+                "The defendant did not have a valid driving license.",
+                "The driving was unauthorized by law."
+            ],
+            "key_words": [
+                "driving",
+                "without",
+                "license",
+                "unauthorized"
+            ]
+        },
+        {
+            "offence": "Driving Without Insurance",
+            "statute": "s.51 Road Traffic Act 1938",
+            "points_to_prove": [
+                "The defendant drove a motor vehicle.",
+                "The vehicle was not covered by valid insurance.",
+                "The driving was without proper insurance coverage."
+            ],
+            "key_words": [
+                "driving",
+                "without",
+                "insurance",
+                "coverage",
+                "valid"
+            ]
+        }
+    ]
+}
