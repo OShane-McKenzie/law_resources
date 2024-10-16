@@ -1,16 +1,12 @@
 {
     "message":[
         {
-            "priority":"Medium",
-            "content":"P. Codes were added"
+            "priority":"medium",
+            "content":"P Codes were added to RTA section"
         },
         {
             "priority":"high",
             "content":"Version 3.0 is out. Added offences finder."
-        },
-        {
-            "priority":"high",
-            "content":"Version 2.8 is out.\nVideos and feedback sections were added."
         },
         {
             "priority":"medium",
