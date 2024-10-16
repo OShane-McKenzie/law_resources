@@ -1,6 +1,10 @@
 {
     "message":[
         {
+            "priority":"Medium",
+            "content":"P. Codes were added"
+        },
+        {
             "priority":"high",
             "content":"Version 3.0 is out. Added offences finder."
         },
