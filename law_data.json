@@ -23,7 +23,7 @@
         "election_duties":"https://oshane-mckenzie.github.io/law_resources/election_duties.json",
         "bail_act":"https://oshane-mckenzie.github.io/law_resources/bail_act.json",
         "videos":"https://oshane-mckenzie.github.io/law_resources/videos.json",
-        "feedback":"https://oshane-mckenzie.github.io/law_resources/feedback"
-        
+        "feedback":"https://oshane-mckenzie.github.io/law_resources/feedback",
+        "offences":"https://oshane-mckenzie.github.io/law_resources/offences.json"
     }
 }
