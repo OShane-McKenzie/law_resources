@@ -1028,6 +1028,580 @@
             "fine": "$10000 ",
             "points": 0,
             "section": "Section 108(2)"
-        }
+        },
+        {
+            "code": "P001",
+            "description": "Conductor Fail To Display Federation Sign",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-131"
+          },
+          {
+            "code": "P002",
+            "description": "Conductor Fail To Display Identification",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-131"
+          },
+          {
+            "code": "P003",
+            "description": "Convey Dangerous Substance With Passenger",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-135"
+          },
+          {
+            "code": "P004",
+            "description": "Convey Explosives With Passenger",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-135"
+          },
+          {
+            "code": "P005",
+            "description": "Disorderly Conduct By Conductor",
+            "fine": 3500,
+            "points": 0,
+            "section": "Regulation-130"
+          },
+          {
+            "code": "P006",
+            "description": "Disorderly Conduct By Passenger",
+            "fine": 3500,
+            "points": 0,
+            "section": "Regulation-134"
+          },
+          {
+            "code": "P007",
+            "description": "Drive Official Or Special Passenger Vehicle",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-73"
+          },
+          {
+            "code": "P008",
+            "description": "Driver Conveying While Drunk",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-130"
+          },
+          {
+            "code": "P010",
+            "description": "Driver Failing To Signal On Commercial Vehicle",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-134"
+          },
+          {
+            "code": "P011",
+            "description": "Driver In Conductor Driving Or Eating While Carrying",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-130"
+          },
+          {
+            "code": "P012",
+            "description": "Driver Without Or Give Up Federation Sign",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-134"
+          },
+          {
+            "code": "P013",
+            "description": "Enter Between On Covered Bus When Next To Other",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-134"
+          },
+          {
+            "code": "P014",
+            "description": "Entering Of Exit Not Clear Of Obstruction",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-134"
+          },
+          {
+            "code": "P015",
+            "description": "Entrance Or Exit Not Clear Of Obstruction",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-110"
+          },
+          {
+            "code": "P017",
+            "description": "Fail To Leave Hand Lift Open For Passenger",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-134"
+          },
+          {
+            "code": "P018",
+            "description": "Fail To Show Ticket When Requested By An Authorised Person",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-136"
+          },
+          {
+            "code": "P019",
+            "description": "Fail To Stop At Bus Stop",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-134"
+          },
+          {
+            "code": "P020",
+            "description": "Failing To Pay Fare In Commercial Vehicle To Loadstar Trust Area Or Other Destination Out Of Area Or Other Reg",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-28"
+          },
+          {
+            "code": "P021",
+            "description": "Failing To Pay Fare From Ha Noi To Other To Show Federation Sign",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-28"
+          },
+          {
+            "code": "P022",
+            "description": "Fraudulent Use Of Ticket",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-134"
+          },
+          {
+            "code": "P023",
+            "description": "Full Fit Cup Not Secure On Public Passenger Vehicle",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-85"
+          },
+          {
+            "code": "P024",
+            "description": "Getting On Accommodation For Driver On Public Passenger Vehicle",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-84"
+          },
+          {
+            "code": "P025",
+            "description": "Inadequate Additional Light On Public Passenger Vehicle",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-87"
+          },
+          {
+            "code": "P026",
+            "description": "Indecency On New Vans Taxi",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-134"
+          },
+          {
+            "code": "P028",
+            "description": "Load Not Places Period On Public Passenger Vehicle",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-119"
+          },
+          {
+            "code": "P029",
+            "description": "Load Not Properly Fixed",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-120"
+          },
+          {
+            "code": "P030",
+            "description": "Load Operating Over Time Motor",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-184"
+          },
+          {
+            "code": "P031",
+            "description": "Loading Not Properly Fixed",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-120"
+          },
+          {
+            "code": "P032",
+            "description": "More Period On Drivers Seat",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-2850"
+          },
+          {
+            "code": "P033",
+            "description": "Motor Not Fit",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-2850"
+          },
+          {
+            "code": "P034",
+            "description": "No Conductor Where There Is One On Passengers On Hfv",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-119"
+          },
+          {
+            "code": "P035",
+            "description": "No Fixed Price List",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-134"
+          },
+          {
+            "code": "P036",
+            "description": "No Particular License",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-130"
+          },
+          {
+            "code": "P037",
+            "description": "No Permission",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-134"
+          },
+          {
+            "code": "P038",
+            "description": "No Persons Name Or Passenger Communication With Driver Where Station Located In Rural Area",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-81"
+          },
+          {
+            "code": "P039",
+            "description": "No Emergency Exit",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-75"
+          },
+          {
+            "code": "P040",
+            "description": "No Extended Service For Commercial Water Carrier",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-134"
+          },
+          {
+            "code": "P041",
+            "description": "Not Having Bearings On Public Passenger Vehicle",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-134"
+          },
+          {
+            "code": "P042",
+            "description": "Not Pay Extention On",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-134"
+          },
+          {
+            "code": "P043",
+            "description": "Not Side Vehicle On Public Passenger Vehicle",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-74/2"
+          },
+          {
+            "code": "P044",
+            "description": "No Social Sign On Public Passenger",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-134"
+          },
+          {
+            "code": "P045",
+            "description": "Not Proper Display Of Motor Vehicle When Operating",
+            "fine": 250,
+            "points": 0,
+            "section": "Regulation-102/2"
+          },
+          {
+            "code": "P046",
+            "description": "Not Public Passenger Vehicle Badge",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-134"
+          },
+          {
+            "code": "P047",
+            "description": "Not Stopping At A Bus Stop",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-132"
+          },
+          {
+            "code": "P048",
+            "description": "Not Showing License Of Passenger",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-134"
+          },
+          {
+            "code": "P049",
+            "description": "Not Having Fleet Code",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-204/2"
+          },
+          {
+            "code": "P050",
+            "description": "Not Operating Price Fixed",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-28"
+          },
+          {
+            "code": "P051",
+            "description": "Obstructing Of Present Representative Reading",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-136"
+          },
+          {
+            "code": "P052",
+            "description": "Operating Over Weight Commercial Vehicle",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-136"
+          },
+          {
+            "code": "P053",
+            "description": "Operating Motor Vehicle Without Fixed License",
+            "fine": 3500,
+            "points": 0,
+            "section": "Regulation-61/1"
+          },
+          {
+            "code": "P054",
+            "description": "Operator Adding More Passengers On Public Moving Authority Vehicle",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-134"
+          },
+          {
+            "code": "P055",
+            "description": "Passenger Leaving Vehicle",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-134"
+          },
+          {
+            "code": "P056",
+            "description": "Passenger Damaging Seat",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-134"
+          },
+          {
+            "code": "P057",
+            "description": "Passenger Causing Damage Or Injury To Property On Public Passenger Vehicle",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-134"
+          },
+          {
+            "code": "P058",
+            "description": "Passenger Harming Another",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-134"
+          },
+          {
+            "code": "P059",
+            "description": "Passenger Standing Additional Person On Public Passenger Vehicle",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-134"
+          },
+          {
+            "code": "P060",
+            "description": "Passenger Left Over To Pay",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-134"
+          },
+          {
+            "code": "P061",
+            "description": "Passenger Off Drive For Use On Public Passenger Vehicle",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-134"
+          },
+          {
+            "code": "P062",
+            "description": "Passenger Sit Close On Seat",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-134"
+          },
+          {
+            "code": "P063",
+            "description": "Passenger Sit Over Not Full Size",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-132"
+          },
+          {
+            "code": "P064",
+            "description": "Passenger Pass By Use Drive",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-134"
+          },
+          {
+            "code": "P065",
+            "description": "Passenger Throwing Waste Or Liquid From Public Passenger Vehicle",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-134"
+          },
+          {
+            "code": "P066",
+            "description": "Passenger Speaking With Driver",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-135"
+          },
+          {
+            "code": "P067",
+            "description": "Passenger Standing On Moving Vehicle",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-134"
+          },
+          {
+            "code": "P068",
+            "description": "Passenger Using Offensive Language On Hfv",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-134"
+          },
+          {
+            "code": "P069",
+            "description": "Passenger While Alcoholic Not Allow",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-134"
+          },
+          {
+            "code": "P070",
+            "description": "Passenger Vehicle Device Motor Vehicle",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-134"
+          },
+          {
+            "code": "P071",
+            "description": "Passenger While Carrying Animal",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-134"
+          },
+          {
+            "code": "P072",
+            "description": "Passenger While Service Notice Board",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-134"
+          },
+          {
+            "code": "P073",
+            "description": "Passenger While Not Properly Fixed Public Passenger",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-134"
+          },
+          {
+            "code": "P074",
+            "description": "Passenger's Condition (Service) To Other Passenger",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-135"
+          },
+          {
+            "code": "P075",
+            "description": "Playing Device On Public Passenger",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-134"
+          },
+          {
+            "code": "P076",
+            "description": "Playing Music On Public Passenger Vehicle",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-134"
+          },
+          {
+            "code": "P077",
+            "description": "Playing Commercial Service Rate Public Money",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-111"
+          },
+          {
+            "code": "P078",
+            "description": "Public Passenger Vehicle Not High Cover",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-111"
+          },
+          {
+            "code": "P080",
+            "description": "Street Not Fixed Into Use The Stream",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-134"
+          },
+          {
+            "code": "P081",
+            "description": "Take Animal On Public Passenger Vehicle",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-135"
+          },
+          {
+            "code": "P082",
+            "description": "Tower Stream Out",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-134"
+          },
+          {
+            "code": "P083",
+            "description": "Travelers Of Conductor As Driver",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-135"
+          },
+          {
+            "code": "P084",
+            "description": "Using Or Receiving Code On While",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-136"
+          },
+          {
+            "code": "P085",
+            "description": "Display Deceiving Passenger As To The Face Charge Excess",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-135"
+          },
+          {
+            "code": "P086",
+            "description": "While Having Scandalous Act In Bus",
+            "fine": 2500,
+            "points": 0,
+            "section": "Regulation-134"
+          }
     ]
 }
